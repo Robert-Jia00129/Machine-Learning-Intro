@@ -8,7 +8,7 @@ Unsolved concerns today:
 - I created a file in the folder, but I'm unable to push it onto the online repository. 
 - The folder does not show up
 
-
+Solved: 
 - This previous problem was solved by adding new documents in the folder! 
 
 
