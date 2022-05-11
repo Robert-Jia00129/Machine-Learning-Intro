@@ -1,0 +1,12 @@
+{
+  "base_url": "/jupyter/jmb81hr1e79a88sfoi8g4lv4jg/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home",
+  "password": false,
+  "pid": 20,
+  "port": 16000,
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://127.0.0.1:16000/jupyter/jmb81hr1e79a88sfoi8g4lv4jg/"
+}
