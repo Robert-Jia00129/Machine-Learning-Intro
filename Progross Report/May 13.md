@@ -3,7 +3,7 @@
 **Learnt new .md codes**
 
 
-I found a cheatsheet about .md syntax, and I'll include it in the folder
+I found a cheatsheet about .md syntax[^1], and I'll include it in the folder
 
 
 Problems for tomorrow: 
@@ -11,4 +11,4 @@ Problems for tomorrow:
 - Organize my folders so they look clearer and more readable
 
 
-Refernce at https://www.markdownguide.org/cheat-sheet/ 
+[^1]: Refernce at https://www.markdownguide.org/cheat-sheet/ 
