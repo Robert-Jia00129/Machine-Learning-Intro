@@ -1,0 +1,12 @@
+{
+  "base_url": "/jupyter/glot2dab19imeg5u6e1ulliuhk/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home",
+  "password": false,
+  "pid": 19,
+  "port": 16000,
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://127.0.0.1:16000/jupyter/glot2dab19imeg5u6e1ulliuhk/"
+}
