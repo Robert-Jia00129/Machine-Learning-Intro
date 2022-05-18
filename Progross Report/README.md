@@ -10,6 +10,7 @@ For one of the notebooks, I have some errors doing it one way and managed to do 
 ### Tasks undone: 
 - Including meeting recordings. 
 - Put description for each for
+- Move previous progress reports into this README.md 
 - **Incorporate coding pieces in a seperate folder so it is easy to find code examples**
 
 [^1]: Reference at https://www.markdownguide.org/cheat-sheet/ 
