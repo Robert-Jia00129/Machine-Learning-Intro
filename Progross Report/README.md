@@ -5,7 +5,7 @@ I use this floder as a place to write my daily progress and practise markdown sy
 
 ## May 18 Updates 
 ### I discovered that recording progress in separate files are redundent and difficult to read, and it is better to record them together in this file
-### ~~Finished all the exercises and uploaded them onto github. ~~
+### ~~Finished all the exercises and uploaded them onto github.~~
 For one of the notebooks, I have some errors doing it one way and managed to do it the other way round. 
 ### Tasks undone: 
 - Including meeting recordings. 
