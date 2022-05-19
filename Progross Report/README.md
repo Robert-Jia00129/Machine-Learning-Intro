@@ -1,6 +1,7 @@
 # This folder records my everday learning from github
 I use this floder as a place to write my daily progress and practise markdown syntax. 
-##The cheatsheet included is extracted online [^1]
+## Besides my daily progress report, there is a cheatsheet on markdown language included in this file. 
+The cheatsheet included is extracted online [^1]
 
 
 ## May 18 Updates 
@@ -12,5 +13,18 @@ For one of the notebooks, I have some errors doing it one way and managed to do 
 - Put description for each for
 - Move previous progress reports into this README.md 
 - **Incorporate coding pieces in a seperate folder so it is easy to find code examples**
+
+## May 19 Updates: 
+### Finished tasks: 
+- ~~Revised this .md description to make it more readable~~
+- ~~**Incorporate coding pieces in a seperate folder so it is easy to find code examples** ~~
+
+### Tasks Undone: 
+- Including meeting recordings. 
+- Put description for each for
+- Move previous progress reports into this README.md 
+- Rename repository and Folders to increase readability. 
+
+
 
 [^1]: Reference at https://www.markdownguide.org/cheat-sheet/ 
