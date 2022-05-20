@@ -1,9 +1,9 @@
-# Pavlos-Protopapas
-Research program updates 
+# This repository includes basic exercises and concepts for machine learning that I learned from Pavlos-Protospapas Online course. 
+
  
-## Description of each folder
-### Finished Tasks: 
-**This folder consist of tasks I've already completed.**
+# Description of each folder
+## Finished Tasks: 
+**This folder consist of basic coding chunks**
 In most of the files, there is an original version file and an ANS file. Plus some other required datasets and helper.py. 
 
 ### Progress Report: 
