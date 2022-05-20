@@ -7,22 +7,22 @@ The cheatsheet included is extracted online [^1]
    
 ## May 12 Updates
 
-### New skills learnt: 
+### Finished Today: 
 - how to make smaller headings and organize the .md file
 
-### Questions: 
+### Tasks for tomorrow: 
 - Is there a more convenient way for me to upload these everday report? 
 
 Also, I can start adding notes about specific tasks in the corresponding files from tomorrow. 
 For example, add a .md explanation about the CNN networks in the CNN file. 
 
 ## May 13 Updates 
-### Skills learnt
+### Finished Today: 
 - Learnt about markdown language
 - Learnt about how to create repositories and how to make new commits 
 - Downloaded GitHub Desktop and Pulled documents from online repositories. 
 
-### Questions unsolved: 
+### Tasks for tomorrow: 
 - how to use terminal to commit and make changes (but I guess it's unneccessary because I already have github desktop. 
 - How do I synchronize my files on my local desktop onto the online repositories. 
 - I created a file in the folder, but I'm unable to push it onto the online repository. 
@@ -32,18 +32,58 @@ For example, add a .md explanation about the CNN networks in the CNN file.
 - ~~This previous problem was solved by adding new documents in the folder!~~
 - ~~By downloading github desktop, it is much easier for me to upload files and make comits~~
 
-# May 13 updates 
-
-**Learnt new .md codes**
-
-I found a cheatsheet about .md syntax[^1], and I'll include it in the folder
-
-
-Problems for tomorrow: 
-- Implement some CNN examples
+## May 13 updates 
+### Finished Today 
+- **Learnt new .md codes**
+- I found a cheatsheet about .md syntax[^1], and I'll include it in the folder
+### Tasks for Tomorrow: 
+- Implement some CNN exercises
 - Organize my folders so they look clearer and more readable
 
+## May 14 updates
 
+### Finished Today: 
+- ~~Organize Foldres into more readable files.~~ 
+- The previous layout was difficult to go through and complicated. 
+- So I divide it into sections regarding out course syllabus. 
+### Tasks for Tomorrow: 
+- Update all the files into foldres. 
+- Add description/illustration about each topic: graphs, notes, important coding segments... etc.
+
+## May 15 Updates 
+### Finished Today
+- ~~Uploaded related pdf documents into each folder~~
+- ~~Working on several exercises, yet unable to complete neither of them~~
+- ~~Reviewed video explainations on nerual network basics~~
+
+### Tasks for Tomorrow: 
+6 Exercises left, finish 3. 
+
+### Future: 
+Start Paper reading on different topics. 
+
+
+## May 16 Update
+### Finished Today
+- ~~(Well-behind task)~~ Because I failed to save one one the notebooks. 
+- Reviewed for previous lectures. 
+- Going to start including the notes after I finished all the exercises. 
+
+### Tasks for tomorrow: 
+- Rewrite the unsaved notebook 
+- Finish batch normalization 
+- Finish 2 notebooks 
+- Start stats studying 
+
+## May 17 Updates
+
+### Finished Today: 
+- ~~4 Exercises~~ 
+
+### Tasks for Tomorrow: 
+- 2 Exercises left
+- Improve the layouts to be more user friendly. 
+### Also from tomorrow, I'm going to include the progress in one single file instead of distributing them in different files this is difficult to view over
 
 ## May 18 Updates 
 ### I discovered that recording progress in separate files are redundent and difficult to read, and it is better to record them together in this file
@@ -60,12 +100,26 @@ For one of the notebooks, I have some errors doing it one way and managed to do 
 - ~~Revised this .md description to make it more readable~~
 - ~~**Incorporate coding pieces in a seperate folder so it is easy to find code examples** ~~
 
-### Tasks Undone: 
+### Tasks for tomorrow: 
 - Including meeting recordings. 
 - Put description for each for
 - Move previous progress reports into this README.md 
 - Rename repository and Folders to increase readability. 
 
+## May 20 Update: 
+### Finished Today: 
+- [x] Learnt advanced syntax for displaying tasks
+- [x] Move previous progress reports into this README.md and deleted them
+- [x] Included meeting recordings. 
+- [x] Edited all the previous .md notes to make the structure look better. 
+- [x] Finished Paper:  On the Capabilities of Multilayer Perceptrons[^2]
+
+### Tasks undone: 
+- [ ] Finish Our final homework
+- [ ] Finish More Papers 
+
 
 
 [^1]: Reference at https://www.markdownguide.org/cheat-sheet/ 
+[^2]: This paper and the papers mentioned in the future would be included in a folder. 
+
