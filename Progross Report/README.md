@@ -118,6 +118,16 @@ For one of the notebooks, I have some errors doing it one way and managed to do 
 - [ ] Finish Our final homework
 - [ ] Finish More Papers 
 
+## May 21 Update: 
+### Finished Today: 
+- [x] Half of the gradient descent paper. The paper is 33 pages long, and this is the second paper I have read, so it is a little bit difficult
+- [x] Added a simple description about the first paper I've read: On the Capabilities of Multilayer Perceptrons
+
+### Tasks for tomorrow: 
+- [ ] Finish the gradient descent paper. 
+- [ ] Add links to the paper I mentioned, or read. 
+- [ ] Finish lab exercise
+
 
 
 [^1]: Reference at https://www.markdownguide.org/cheat-sheet/ 
