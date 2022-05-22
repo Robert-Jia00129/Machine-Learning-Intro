@@ -133,3 +133,15 @@ For one of the notebooks, I have some errors doing it one way and managed to do 
 [^1]: Reference at https://www.markdownguide.org/cheat-sheet/ 
 [^2]: This paper and the papers mentioned in the future would be included in a folder. 
 
+## May 22 Update: 
+### Finished Today: 
+- [x] Learned to delete files. I used to delte it but did not commit the change. After commiting the change, the file is deleted successfully. 
+- [x] Learned to Add new folders. Just use newfolder/ when creating new files and it creates a new folder
+- [x] Set-up Jupyter notebook environment
+- [x] Finished Lab exercises
+- [x] Finished Paper: Gradient Descent
+- [x] Add links to the paper I mentioned, or read. 
+
+### Tasks for tomorrow: 
+- [ ] Start working on the homework problem. 
+- [ ] Read paper on SGD and Stochastic gradient descent. 
