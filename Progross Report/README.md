@@ -141,6 +141,7 @@ For one of the notebooks, I have some errors doing it one way and managed to do 
 - [x] Finished Lab exercises
 - [x] Finished Paper: Gradient Descent
 - [x] Add links to the paper I mentioned, or read. 
+- [x] Updated Previous powerpoints
 
 ### Tasks for tomorrow: 
 - [ ] Start working on the homework problem. 
