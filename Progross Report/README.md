@@ -145,4 +145,21 @@ For one of the notebooks, I have some errors doing it one way and managed to do 
 
 ### Tasks for tomorrow: 
 - [ ] Start working on the homework problem. 
-- [ ] Read paper on SGD and Stochastic gradient descent. 
+- [ ] Read paper on SGD. 
+
+## May 23 Update: 
+### Finished Tassks: 
+- [x] Start working on HW2
+
+## May 24 Update
+Did Covid vaccine yesterday and wrote that much. 
+### Finished Today: 
+- [x] Finished HW2 Part 2. Big Achievement!!!!
+- [x] Added ANS file to HW1 folder
+- [x] Learned about datasets and pipelining. 
+- [x] Purchased Colab Pro
+
+### Tasks for tomorrow: 
+- [ ] Read paper on SGD. Hopefully I could finish it
+- [ ] Read paper on Automatic_Differentiation. Hopefully this too. 
+- [ ] Recap Lessons for multi-variable calculus
