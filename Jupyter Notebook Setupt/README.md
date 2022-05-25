@@ -9,6 +9,11 @@ After downloading, I reference [this video](https://www.youtube.com/watch?v=tGkZ
 ```
 conda create -n tf tensorflow
 ```
+Else, you could directly type the command in jupyter notebook
+```python
+!pip -qq install tensorflow
+```
+
 And the library would be downloaded so you can import it into your jupyter notebook. 
 
 ## Useful Links to refer to: 
