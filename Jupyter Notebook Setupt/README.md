@@ -1,11 +1,21 @@
-# This folder shows necessary steps to set up Jupyter Notebook and tensorflow environment
+# This folder shows necessary steps to set up Jupyter Notebook on Mac
 
 
-
-You can download anaconda-naviagtor online. It is pretty straight forward. 
+## Downloading Anaconda or VS Code
+### Anaconda: You can download [anaconda-naviagtor](https://www.anaconda.com/products/distribution) online. It is pretty straight forward.
 After downloading, I reference [this video](https://www.youtube.com/watch?v=tGkZ9EARwzk) for downloading tensorflow environment
 
-## Basically, the code you put in your terminal is: 
+---
+
+### VS Code: If you want to download VS Code, and are unable to download: 
+Try this link: https://vscode.cdn.azure.cn/stable/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/VSCode-darwin-universal.zip 
+
+---
+
+## Importing Necessary Libraries
+
+### Tensorflow
+Basically, the code you put in your terminal is: 
 ```
 conda create -n tf tensorflow
 ```
