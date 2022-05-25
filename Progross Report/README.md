@@ -163,3 +163,15 @@ Did Covid vaccine yesterday and wrote that much.
 - [ ] Read paper on SGD. Hopefully I could finish it
 - [ ] Read paper on Automatic_Differentiation. Hopefully this too. 
 - [ ] Recap Lessons for multi-variable calculus
+---
+## May 25 Update: 
+### Finished Tasks: 
+- [x] Revised HW2 Part 2.3.1 so it can take any input. 
+- [x] Learned how to download packages in jupyter notebook directly using !pip
+- [x] Learned to add horizontal lines in .md files
+- [x] Finished Paper on SGD
+- [x] Research on sharp minimum and broad minimum. 
+
+### Tasks for tomorrow: 
+- [ ] Read paper on Automatic_Differentiation. 
+- [ ] Review more on multi-variable calculus classes
