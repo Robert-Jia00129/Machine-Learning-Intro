@@ -175,3 +175,12 @@ Did Covid vaccine yesterday and wrote that much.
 ### Tasks for tomorrow: 
 - [ ] Read paper on Automatic_Differentiation. 
 - [ ] Review more on multi-variable calculus classes
+--- 
+## May 26 Update: 
+### Finished Tasks: 
+- [x] Finished Paper on Automatic Differentiation (listed in the papers folder)
+- [x] Finished tuning HW2 model
+
+### Tasks for tomorrow:
+- [ ] Read Paper on convolution-dialation
+- [ ] Finish Multivariable tasks
