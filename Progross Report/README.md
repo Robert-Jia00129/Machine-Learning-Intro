@@ -145,4 +145,42 @@ For one of the notebooks, I have some errors doing it one way and managed to do 
 
 ### Tasks for tomorrow: 
 - [ ] Start working on the homework problem. 
-- [ ] Read paper on SGD and Stochastic gradient descent. 
+- [ ] Read paper on SGD. 
+
+## May 23 Update: 
+### Finished Tassks: 
+- [x] Start working on HW2
+
+## May 24 Update
+Did Covid vaccine yesterday and wrote that much. 
+### Finished Today: 
+- [x] Finished HW2 Part 2. Big Achievement!!!!
+- [x] Added ANS file to HW1 folder
+- [x] Learned about datasets and pipelining. 
+- [x] Purchased Colab Pro
+
+### Tasks for tomorrow: 
+- [ ] Read paper on SGD. Hopefully I could finish it
+- [ ] Read paper on Automatic_Differentiation. Hopefully this too. 
+- [ ] Recap Lessons for multi-variable calculus
+---
+## May 25 Update: 
+### Finished Tasks: 
+- [x] Revised HW2 Part 2.3.1 so it can take any input. 
+- [x] Learned how to download packages in jupyter notebook directly using !pip
+- [x] Learned to add horizontal lines in .md files
+- [x] Finished Paper on SGD
+- [x] Research on sharp minimum and broad minimum. 
+
+### Tasks for tomorrow: 
+- [ ] Read paper on Automatic_Differentiation. 
+- [ ] Review more on multi-variable calculus classes
+--- 
+## May 26 Update: 
+### Finished Tasks: 
+- [x] Finished Paper on Automatic Differentiation (listed in the papers folder)
+- [x] Finished tuning HW2 model
+
+### Tasks for tomorrow:
+- [ ] Read Paper on convolution-dialation
+- [ ] Finish Multivariable tasks
