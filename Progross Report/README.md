@@ -201,3 +201,12 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finish Multi
 - [ ] Review on the lectures on saliency maps
+---
+## May 28 Update: 
+### Finished Tasks
+- [x] Determined the project we are choosing for our final project
+- [x] Nearly finished mulivariable calculus review
+
+### Tasks for tomorrow: 
+- [ ] Finished Multi
+- [ ] Solve concernes on saliency maps and grad cam
