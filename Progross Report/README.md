@@ -184,3 +184,20 @@ Did Covid vaccine yesterday and wrote that much.
 ### Tasks for tomorrow:
 - [ ] Read Paper on convolution-dialation
 - [ ] Finish Multivariable tasks
+---
+## May 27 Update: 
+### Finished Tasks: 
+- [x] Updated 8.CNN-SaliencyMaps
+- [x] Half-way through multi
+- [x] Learnt about PCA(Principal Component Analysis) using SVD (Singluar Value
+PCA
+Singular Vector/Eigenvector for PC1: The unit vector along PC1
+Loading Scores: The proportion of each variable that makes up the unit vector
+Eigenvalue for PC1: SS for PC1
+Singluar Value for PC1: sqrt(SS for PC1)
+SS(PC1)/n-1 = Variation for PC1
+Sum of (SS(PC)/n-1) = Total variation
+Scree plot to visualize this
+### Tasks for tomorrow: 
+- [ ] Finish Multi
+- [ ] Review on the lectures on saliency maps
