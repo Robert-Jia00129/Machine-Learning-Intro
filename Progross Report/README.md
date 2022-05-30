@@ -216,5 +216,13 @@ Scree plot to visualize this
 - [x] Organize folders
 - [x] Prepare for final
 ### Tasks for tomorrow: 
-- [ ] Finish final exam!!!!
+- [ ] Start final exam!!!!
 - [ ] Then I could start working!!
+
+
+## May30 Update: 
+### Finished Tasks: 
+- [x] Review for final~
+### Tasks for tomorrow: 
+- [ ] Finish final exam!!
+- [ ] Then I could put all the time into coding!!
