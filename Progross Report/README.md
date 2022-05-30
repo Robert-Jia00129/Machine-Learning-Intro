@@ -210,3 +210,11 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finished Multi
 - [ ] Solve concernes on saliency maps and grad cam
+---
+## May29 Update: 
+### Finished Tasks: 
+- [x] Organize folders
+- [x] Prepare for final
+### Tasks for tomorrow: 
+- [ ] Finish final exam!!!!
+- [ ] Then I could start working!!
