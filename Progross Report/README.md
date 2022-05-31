@@ -235,6 +235,7 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finish lab questions
 - [ ] Finish exercises for CNN8
-
+- [ ] Start my checklist on what to bring to USA
+- [ ] Start planning my Youtube video, and gather all the rejection letters. 
 
 
