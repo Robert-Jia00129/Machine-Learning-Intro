@@ -226,3 +226,15 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finish final exam!!
 - [ ] Then I could put all the time into coding!!
+---
+## May 31 Update: 
+### Finished Tasks: 
+- [x] Finally Finished Final!!
+- [x] Included an ANS file for HW2
+
+### Tasks for tomorrow: 
+- [ ] Finish lab questions
+- [ ] Finish exercises for CNN8
+
+
+
