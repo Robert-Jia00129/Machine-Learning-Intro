@@ -238,4 +238,13 @@ Scree plot to visualize this
 - [ ] Start my checklist on what to bring to USA
 - [ ] Start planning my Youtube video, and gather all the rejection letters. 
 
+## June 1 Update: 
+### Finished Tasks: 
+- [x] Finished three tasks finally! 
+- [x] Included ANS file for each tasks and updated them
+- [x] Start planning on Youtube videoes. 
 
+### Tasks for tomorrow: 
+- [x] Start working on my project
+- [x] Upload all the rejection letters onto github. 
+- [x] Start a new repository for rejection letters
