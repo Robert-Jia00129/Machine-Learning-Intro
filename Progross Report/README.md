@@ -237,7 +237,7 @@ Scree plot to visualize this
 - [ ] Finish exercises for CNN8
 - [ ] Start my checklist on what to bring to USA
 - [ ] Start planning my Youtube video, and gather all the rejection letters. 
-
+---
 ## June 1 Update: 
 ### Finished Tasks: 
 - [x] Finished three tasks finally! 
@@ -248,3 +248,12 @@ Scree plot to visualize this
 - [x] Start working on my project
 - [x] Upload all the rejection letters onto github. 
 - [x] Start a new repository for rejection letters
+---
+## June 2 Update: 
+### Finished Tasks: 
+- [x] Gathered related works/papers and created a new repository for that
+- [x] Start looking at 3DUnet and how it workds
+### Tasks for tomorrow: 
+- [x] Finish some papers on 3DUnet
+- [x] Rejection letters Download and update
+- [x] Finish professor Pavlos's course, and ask for a recommendation letter. 
