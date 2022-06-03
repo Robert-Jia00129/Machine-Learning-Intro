@@ -254,6 +254,16 @@ Scree plot to visualize this
 - [x] Gathered related works/papers and created a new repository for that
 - [x] Start looking at 3DUnet and how it workds
 ### Tasks for tomorrow: 
-- [x] Finish some papers on 3DUnet
-- [x] Rejection letters Download and update
-- [x] Finish professor Pavlos's course, and ask for a recommendation letter. 
+- [ ] Finish some papers on 3DUnet
+- [ ] Rejection letters Download and update
+- [ ] Finish professor Pavlos's course, and ask for a recommendation letter. 
+---
+## June 3 Update: 
+### Finished Tasks: 
+- [x] Nearly finished Pavlos Protopapas's cours!!! Saad
+- [x] Had lectures on the topic transformer learning
+- [x] Work on exercises and included them in the lab
+
+### Tasks for tomorrow: 
+- [ ] Finish some papers on 3DUnet
+- [ ] Rejection letters Download and update
