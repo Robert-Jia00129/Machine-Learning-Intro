@@ -260,10 +260,20 @@ Scree plot to visualize this
 ---
 ## June 3 Update: 
 ### Finished Tasks: 
-- [x] Nearly finished Pavlos Protopapas's cours!!! Saad
+- [x] Nearly finished Pavlos Protopapas's course!!! Saad
 - [x] Had lectures on the topic transformer learning
 - [x] Work on exercises and included them in the lab
 
 ### Tasks for tomorrow: 
 - [ ] Finish some papers on 3DUnet
 - [ ] Rejection letters Download and update
+---
+## June 4 Update: 
+### Finished Tasks: 
+- [x] Finally finished Pavlos Protopapas's course!!!!!!!!
+- [x] Finish all homeworkds, labs, exercises, and have uploaded them to this repository. 
+- [x] Read one paper on UNet and did research on it's application. Get familiar with it's architecture. 
+
+### Tasks for tomorrow: 
+- [ ] Finish more papers on 3DUnet
+- [ ] Upload rejection letters!
