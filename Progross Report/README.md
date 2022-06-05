@@ -277,3 +277,14 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finish more papers on 3DUnet
 - [ ] Upload rejection letters!
+
+---
+## June 5 Update: 
+### Finished Tasks: 
+- [x] Able to ask for the recommendation letter, yeahhhh
+- [x] The previous project was too complicated and imgragmatic, and sadly we have to change to another one
+
+### Tasks for tomorrow: 
+- [ ] Start working on the galaxy project
+- [ ] Prepare for my journey to USA
+- [ ] Upload rejection letters!
