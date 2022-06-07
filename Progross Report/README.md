@@ -288,3 +288,12 @@ Scree plot to visualize this
 - [ ] Start working on the galaxy project
 - [ ] Prepare for my journey to USA
 - [ ] Upload rejection letters!
+
+## June 6 Update: 
+### Finished Tasks: 
+- [x] Finished our baseline model for galaxy classification
+- [x] Collected related papers
+### Tasks for Tomorrow: 
+- [ ] Collect more paper
+- [ ] Use Latex to construct the outline
+- [ ] Start working on final paper
