@@ -298,7 +298,7 @@ Scree plot to visualize this
 - [ ] Use Latex to construct the outline
 - [ ] Start working on final paper
 
-## June 7 Updat: 
+## June 7 Update: 
 ### Finished Tasks: 
 - [x] Start running different model for our finla paper
 - [x] Start researching on paper related workds. 
@@ -313,3 +313,14 @@ Scree plot to visualize this
 - [ ] Finish paper: image resolution
 - [ ] Finish paper parts: image resolution
 
+## June 8 Update: 
+### Finished Takss 
+- [x] Finish writing half of the paper and model comparisons
+- [x] Finished paper on class weights, image resolution
+- [x] Finished running all the models 
+- [x] Explore latex
+
+### Tasks for tomorrow: 
+- [ ] Finish the paper 
+- [ ] Finish recording the presentation
+- [ ] Finish writing the paper on latex
