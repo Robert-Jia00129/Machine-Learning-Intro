@@ -297,3 +297,19 @@ Scree plot to visualize this
 - [ ] Collect more paper
 - [ ] Use Latex to construct the outline
 - [ ] Start working on final paper
+
+## June 7 Updat: 
+### Finished Tasks: 
+- [x] Start running different model for our finla paper
+- [x] Start researching on paper related workds. 
+- [x] Stored all the weights onto wandb in order to visualize the results better. 
+
+### Tasks for tomorrow: 
+- [ ] Upload rejection letters!!
+- [ ] Finish running all the models. 
+- [ ] Finish paper parts: Comparison between datasets
+- [ ] Finish paper: class weights
+- [ ] Finish paper parts: class weights 
+- [ ] Finish paper: image resolution
+- [ ] Finish paper parts: image resolution
+
