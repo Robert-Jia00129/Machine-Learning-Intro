@@ -324,3 +324,13 @@ Scree plot to visualize this
 - [ ] Finish the paper 
 - [ ] Finish recording the presentation
 - [ ] Finish writing the paper on latex
+
+## June 9 Update: 
+### Finished Tasks: 
+- [x] Finished Final Paper
+- [x] Finished Presentation video
+
+### Tasks for tomorrow: 
+- [ ] Rejection letters upload!!
+- [ ] Play~
+
