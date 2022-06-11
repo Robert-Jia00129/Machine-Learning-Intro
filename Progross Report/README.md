@@ -334,3 +334,11 @@ Scree plot to visualize this
 - [ ] Rejection letters upload!!
 - [ ] Play~
 
+## June 10 Update: 
+### Finished Tasks: 
+- [x] We revised our final paper, emphasizing sections that are more important, 
+- [x] Attended the last class we have. We are now finished with Pavlos Protopapas' course. 
+
+### Tasks for tomorrow: 
+- [ ] Upload Rejection Letters!!
+- [ ] Find a solution to mark co-author in latex. 
