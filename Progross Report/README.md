@@ -342,3 +342,13 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Upload Rejection Letters!!
 - [ ] Find a solution to mark co-author in latex. 
+
+## June 11 Update: 
+### Finished Tasks: 
+- [x] Added the co-author part for our paper. 
+- [x] Start working on my Resume. Planning to apply for GEC TA and Tencent 2022 xinghuo program. 
+- [x] Start working on applying for community college in uc: santa monica
+
+### Tasks for tomorrow: 
+- [ ] Revise on our paper topic. 
+- [ ] Finish working on my resume and send application. 
