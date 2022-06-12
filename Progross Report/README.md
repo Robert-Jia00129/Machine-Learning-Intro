@@ -352,3 +352,12 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Revise on our paper topic. 
 - [ ] Finish working on my resume and send application. 
+
+## June 12 Update: 
+### Finished Tasks: 
+- [x] Finished the two applications!!! Absolutely amazing. 
+### Tasks for tomorrow: 
+- [ ] Conduct more extensive research around santa monica. 
+- [ ] Revise paper
+- [ ] Resive coding steps
+- [ ] Upload rejection letters!!!
