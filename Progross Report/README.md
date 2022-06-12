@@ -361,3 +361,4 @@ Scree plot to visualize this
 - [ ] Revise paper
 - [ ] Resive coding steps
 - [ ] Upload rejection letters!!!
+- [ ] Apply for uni.ai
