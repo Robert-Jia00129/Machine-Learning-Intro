@@ -374,3 +374,4 @@ Scree plot to visualize this
 - [ ] Apply for uni.ai
 - [ ] Work on our group paper
 - [ ] Start my Youtube Chanel
+ 
