@@ -362,3 +362,15 @@ Scree plot to visualize this
 - [ ] Resive coding steps
 - [ ] Upload rejection letters!!!
 - [ ] Apply for uni.ai
+
+## June 13 Update: 
+### Finished Tasks: 
+- [x] Finished Uploading some of the rejection letters 
+- [x] Conducted extended research on how to start a youtube chanel. 
+
+### Tasks for tomorrow: 
+- [ ] Gather all of the rejectino letters. 
+- [ ] Print out rejection letters
+- [ ] Apply for uni.ai
+- [ ] Work on our group paper
+- [ ] Start my Youtube Chanel
