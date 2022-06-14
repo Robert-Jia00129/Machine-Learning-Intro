@@ -374,4 +374,24 @@ Scree plot to visualize this
 - [ ] Apply for uni.ai
 - [ ] Work on our group paper
 - [ ] Start my Youtube Chanel
- 
+---
+## June 14 Update: 
+### Finished Tasks: 
+- [x] Finished Uploading ALL my rejection letters!
+- [x] Revised our final paper
+
+### Tasks for tomorrow: 
+- [ ] Grammar check the papers
+- [ ] Start working on my Youtube chanel
+- [ ] Apply for uni.AI
+
+## June 14 Update: 
+### Finished Tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] d
+
