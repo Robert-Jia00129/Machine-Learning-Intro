@@ -385,6 +385,26 @@ Scree plot to visualize this
 - [ ] Start working on my Youtube chanel
 - [ ] Apply for uni.AI
 
+## June 15 Update: 
+### Finished Tasks: 
+- [x] Added high resolution picutures to our paper
+- [x] Prepare for my departure to America
+
+### Tasks for tomorrow: 
+- [ ] Research more on what I need to prepare
+- [ ] Finished adding all the picutures and revise the layouts. 
+
+## June 14 Update: 
+### Finished Tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] d
+
+
 ## June 14 Update: 
 ### Finished Tasks: 
 - [x] d
