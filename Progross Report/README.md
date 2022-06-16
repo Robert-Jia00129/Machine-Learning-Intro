@@ -394,7 +394,16 @@ Scree plot to visualize this
 - [ ] Research more on what I need to prepare
 - [ ] Finished adding all the picutures and revise the layouts. 
 
-## June 14 Update: 
+## June 16 Update: 
+### Finished Tasks: 
+- [x] Conduct extended research about college application
+- [x] Conduct research on how to start my YouTube video
+
+### Tasks for tomorrow: 
+- [ ] Finish structuring and adding images to the paper
+
+
+## June 17 Update: 
 ### Finished Tasks: 
 - [x] d
 - [x] d
@@ -405,7 +414,7 @@ Scree plot to visualize this
 - [ ] d
 
 
-## June 14 Update: 
+## June 17 Update: 
 ### Finished Tasks: 
 - [x] d
 - [x] d
@@ -415,3 +424,14 @@ Scree plot to visualize this
 - [ ] d
 - [ ] d
 
+
+
+## June 17 Update: 
+### Finished Tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] d
