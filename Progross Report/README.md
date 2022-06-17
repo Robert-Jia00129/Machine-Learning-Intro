@@ -405,13 +405,13 @@ Scree plot to visualize this
 
 ## June 17 Update: 
 ### Finished Tasks: 
-- [x] d
-- [x] d
+- [x] Walked a 15km journey
+- [x] Prepare for my college/university
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
-- [ ] d
+- [ ] Finish adding images to the paper
+- [ ] Finish structuring the paper
+- [ ] Finish fixing my iPad
 
 
 ## June 17 Update: 
