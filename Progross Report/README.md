@@ -414,6 +414,19 @@ Scree plot to visualize this
 - [ ] Finish fixing my iPad
 
 
+## June 18 Update: 
+### Finished Tasks: 
+- [x] Decided my college
+- [x] Asked professor for further details about internship
+- [x] Fixed iPad
+
+### Tasks for tomorrow: 
+- [ ] Print out the rejection letters!
+- [ ] Finish working on my paper 
+- [ ] Start my own Youtube Chanel
+
+
+
 ## June 17 Update: 
 ### Finished Tasks: 
 - [x] d
@@ -425,7 +438,18 @@ Scree plot to visualize this
 - [ ] d
 
 
+---
+## June 17 Update: 
+### Finished Tasks: 
+- [x] d
+- [x] d
 
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] d
+
+---
 ## June 17 Update: 
 ### Finished Tasks: 
 - [x] d
