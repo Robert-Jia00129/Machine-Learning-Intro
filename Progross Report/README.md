@@ -427,15 +427,14 @@ Scree plot to visualize this
 
 
 
-## June 17 Update: 
+## June 19 Update: 
 ### Finished Tasks: 
-- [x] d
-- [x] d
+- [x] Finish adding graphs to my paper
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
-- [ ] d
+- [ ] Revise the paper
+- [ ] Finish the final part of the paper
+- [ ] Finish my vaccination documents
 
 
 ---
