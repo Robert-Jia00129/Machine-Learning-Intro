@@ -438,15 +438,14 @@ Scree plot to visualize this
 
 
 ---
-## June 17 Update: 
+## June 20 Update: 
 ### Finished Tasks: 
-- [x] d
-- [x] d
+- [x] Finished all the parts of the paper
+- [x] Determined my mind of pursuing my goal
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
-- [ ] d
+- [ ] Make some small changes around the paper
+- [ ] Talk with the teacher to see what we could improve
 
 ---
 ## June 17 Update: 
