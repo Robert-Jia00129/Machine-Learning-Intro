@@ -448,6 +448,26 @@ Scree plot to visualize this
 - [ ] Talk with the teacher to see what we could improve
 
 ---
+## June 21 Update: 
+### Finished Tasks: 
+- [x] Did some small adjustment to the paper
+- [x] Revised our conclusion
+
+### Tasks for tomorrow: 
+- [ ] Talk with the teacher
+
+---
+## June 17 Update: 
+### Finished Tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] d
+
+---
 ## June 17 Update: 
 ### Finished Tasks: 
 - [x] d
