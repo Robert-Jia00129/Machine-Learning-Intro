@@ -457,15 +457,15 @@ Scree plot to visualize this
 - [ ] Talk with the teacher
 
 ---
-## June 17 Update: 
+## June 22 Update: 
 ### Finished Tasks: 
-- [x] d
-- [x] d
+- [x] Finished papers on focal loss, GradCAM, smooth grad
+- [x] Talked with teacher to revise paper
+
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
-- [ ] d
+- [ ] Change our paper according to instructions
+
 
 ---
 ## June 17 Update: 
