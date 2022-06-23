@@ -468,6 +468,29 @@ Scree plot to visualize this
 
 
 ---
+## June 23 Update: 
+### Finished Tasks: 
+- [x] Changed some minor details about the paper
+- [x] Finished some work on my application towards Minnesota
+
+### Tasks for tomorrow: 
+- [ ] Apply for jobs for umn
+- [ ] Finish changing the paper
+
+
+---
+## June 17 Update: 
+### Finished Tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] d
+
+
+---
 ## June 17 Update: 
 ### Finished Tasks: 
 - [x] d
