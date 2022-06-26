@@ -237,5 +237,264 @@ Scree plot to visualize this
 - [ ] Finish exercises for CNN8
 - [ ] Start my checklist on what to bring to USA
 - [ ] Start planning my Youtube video, and gather all the rejection letters. 
+---
+## June 1 Update: 
+### Finished Tasks: 
+- [x] Finished three tasks finally! 
+- [x] Included ANS file for each tasks and updated them
+- [x] Start planning on Youtube videoes. 
+
+### Tasks for tomorrow: 
+- [x] Start working on my project
+- [x] Upload all the rejection letters onto github. 
+- [x] Start a new repository for rejection letters
+---
+## June 2 Update: 
+### Finished Tasks: 
+- [x] Gathered related works/papers and created a new repository for that
+- [x] Start looking at 3DUnet and how it workds
+### Tasks for tomorrow: 
+- [ ] Finish some papers on 3DUnet
+- [ ] Rejection letters Download and update
+- [ ] Finish professor Pavlos's course, and ask for a recommendation letter. 
+---
+## June 3 Update: 
+### Finished Tasks: 
+- [x] Nearly finished Pavlos Protopapas's course!!! Saad
+- [x] Had lectures on the topic transformer learning
+- [x] Work on exercises and included them in the lab
+
+### Tasks for tomorrow: 
+- [ ] Finish some papers on 3DUnet
+- [ ] Rejection letters Download and update
+---
+## June 4 Update: 
+### Finished Tasks: 
+- [x] Finally finished Pavlos Protopapas's course!!!!!!!!
+- [x] Finish all homeworkds, labs, exercises, and have uploaded them to this repository. 
+- [x] Read one paper on UNet and did research on it's application. Get familiar with it's architecture. 
+
+### Tasks for tomorrow: 
+- [ ] Finish more papers on 3DUnet
+- [ ] Upload rejection letters!
+
+---
+## June 5 Update: 
+### Finished Tasks: 
+- [x] Able to ask for the recommendation letter, yeahhhh
+- [x] The previous project was too complicated and imgragmatic, and sadly we have to change to another one
+
+### Tasks for tomorrow: 
+- [ ] Start working on the galaxy project
+- [ ] Prepare for my journey to USA
+- [ ] Upload rejection letters!
+
+## June 6 Update: 
+### Finished Tasks: 
+- [x] Finished our baseline model for galaxy classification
+- [x] Collected related papers
+### Tasks for Tomorrow: 
+- [ ] Collect more paper
+- [ ] Use Latex to construct the outline
+- [ ] Start working on final paper
+
+## June 7 Update: 
+### Finished Tasks: 
+- [x] Start running different model for our finla paper
+- [x] Start researching on paper related workds. 
+- [x] Stored all the weights onto wandb in order to visualize the results better. 
+
+### Tasks for tomorrow: 
+- [ ] Upload rejection letters!!
+- [ ] Finish running all the models. 
+- [ ] Finish paper parts: Comparison between datasets
+- [ ] Finish paper: class weights
+- [ ] Finish paper parts: class weights 
+- [ ] Finish paper: image resolution
+- [ ] Finish paper parts: image resolution
+
+## June 8 Update: 
+### Finished Takss 
+- [x] Finish writing half of the paper and model comparisons
+- [x] Finished paper on class weights, image resolution
+- [x] Finished running all the models 
+- [x] Explore latex
+
+### Tasks for tomorrow: 
+- [ ] Finish the paper 
+- [ ] Finish recording the presentation
+- [ ] Finish writing the paper on latex
+
+## June 9 Update: 
+### Finished Tasks: 
+- [x] Finished Final Paper
+- [x] Finished Presentation video
+
+### Tasks for tomorrow: 
+- [ ] Rejection letters upload!!
+- [ ] Play~
+
+## June 10 Update: 
+### Finished Tasks: 
+- [x] We revised our final paper, emphasizing sections that are more important, 
+- [x] Attended the last class we have. We are now finished with Pavlos Protopapas' course. 
+
+### Tasks for tomorrow: 
+- [ ] Upload Rejection Letters!!
+- [ ] Find a solution to mark co-author in latex. 
+
+## June 11 Update: 
+### Finished Tasks: 
+- [x] Added the co-author part for our paper. 
+- [x] Start working on my Resume. Planning to apply for GEC TA and Tencent 2022 xinghuo program. 
+- [x] Start working on applying for community college in uc: santa monica
+
+### Tasks for tomorrow: 
+- [ ] Revise on our paper topic. 
+- [ ] Finish working on my resume and send application. 
+
+## June 12 Update: 
+### Finished Tasks: 
+- [x] Finished the two applications!!! Absolutely amazing. 
+### Tasks for tomorrow: 
+- [ ] Conduct more extensive research around santa monica. 
+- [ ] Revise paper
+- [ ] Resive coding steps
+- [ ] Upload rejection letters!!!
+- [ ] Apply for uni.ai
+
+## June 13 Update: 
+### Finished Tasks: 
+- [x] Finished Uploading some of the rejection letters 
+- [x] Conducted extended research on how to start a youtube chanel. 
+
+### Tasks for tomorrow: 
+- [ ] Gather all of the rejectino letters. 
+- [ ] Print out rejection letters
+- [ ] Apply for uni.ai
+- [ ] Work on our group paper
+- [ ] Start my Youtube Chanel
+---
+## June 14 Update: 
+### Finished Tasks: 
+- [x] Finished Uploading ALL my rejection letters!
+- [x] Revised our final paper
+
+### Tasks for tomorrow: 
+- [ ] Grammar check the papers
+- [ ] Start working on my Youtube chanel
+- [ ] Apply for uni.AI
+
+## June 15 Update: 
+### Finished Tasks: 
+- [x] Added high resolution picutures to our paper
+- [x] Prepare for my departure to America
+
+### Tasks for tomorrow: 
+- [ ] Research more on what I need to prepare
+- [ ] Finished adding all the picutures and revise the layouts. 
+
+## June 16 Update: 
+### Finished Tasks: 
+- [x] Conduct extended research about college application
+- [x] Conduct research on how to start my YouTube video
+
+### Tasks for tomorrow: 
+- [ ] Finish structuring and adding images to the paper
 
 
+## June 17 Update: 
+### Finished Tasks: 
+- [x] Walked a 15km journey
+- [x] Prepare for my college/university
+
+### Tasks for tomorrow: 
+- [ ] Finish adding images to the paper
+- [ ] Finish structuring the paper
+- [ ] Finish fixing my iPad
+
+
+## June 18 Update: 
+### Finished Tasks: 
+- [x] Decided my college
+- [x] Asked professor for further details about internship
+- [x] Fixed iPad
+
+### Tasks for tomorrow: 
+- [ ] Print out the rejection letters!
+- [ ] Finish working on my paper 
+- [ ] Start my own Youtube Chanel
+
+
+
+## June 19 Update: 
+### Finished Tasks: 
+- [x] Finish adding graphs to my paper
+
+### Tasks for tomorrow: 
+- [ ] Revise the paper
+- [ ] Finish the final part of the paper
+- [ ] Finish my vaccination documents
+
+
+---
+## June 20 Update: 
+### Finished Tasks: 
+- [x] Finished all the parts of the paper
+- [x] Determined my mind of pursuing my goal
+
+### Tasks for tomorrow: 
+- [ ] Make some small changes around the paper
+- [ ] Talk with the teacher to see what we could improve
+
+---
+## June 21 Update: 
+### Finished Tasks: 
+- [x] Did some small adjustment to the paper
+- [x] Revised our conclusion
+
+### Tasks for tomorrow: 
+- [ ] Talk with the teacher
+
+---
+## June 22 Update: 
+### Finished Tasks: 
+- [x] Finished papers on focal loss, GradCAM, smooth grad
+- [x] Talked with teacher to revise paper
+
+
+### Tasks for tomorrow: 
+- [ ] Change our paper according to instructions
+
+
+---
+## June 23 Update: 
+### Finished Tasks: 
+- [x] Changed some minor details about the paper
+- [x] Finished some work on my application towards Minnesota
+
+### Tasks for tomorrow: 
+- [ ] Apply for jobs for umn
+- [ ] Finish changing the paper
+
+
+---
+## June 24 Update: 
+### Finished Tasks: 
+- [x] Revised our paper
+- [x] Got two more parts to change
+
+### Tasks for tomorrow: 
+- [ ] Finish editing the paper
+
+
+---
+## June 17 Update: 
+### Finished Tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] d
