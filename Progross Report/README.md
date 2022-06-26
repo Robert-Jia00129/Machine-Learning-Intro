@@ -489,6 +489,15 @@ Scree plot to visualize this
 
 
 ---
+## June 25 Update: 
+### Finished Tasks: 
+- [x] Finished some minor parts for our paper
+
+### Tasks for tomorrow: 
+- [ ] Finish editing the paper
+
+
+---
 ## June 17 Update: 
 ### Finished Tasks: 
 - [x] d
