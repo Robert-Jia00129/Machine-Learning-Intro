@@ -504,3 +504,12 @@ Scree plot to visualize this
 
 ### Tasks for tomorrow: 
 - [ ] Revise the paper, then discuss with the teachers. 
+
+## June 27 Update: 
+### Finished Tasks: 
+- [x] Scheduled a time with teachers
+
+### Tasks for tomorrow: 
+- [ ] Proof-read our paper
+
+
