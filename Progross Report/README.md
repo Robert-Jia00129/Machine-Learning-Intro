@@ -498,12 +498,9 @@ Scree plot to visualize this
 
 
 ---
-## June 17 Update: 
+## June 26 Update: 
 ### Finished Tasks: 
-- [x] d
-- [x] d
+- [x] Finished editing the paper!!
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
-- [ ] d
+- [ ] Revise the paper, then discuss with the teachers. 
