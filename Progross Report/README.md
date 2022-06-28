@@ -513,3 +513,30 @@ Scree plot to visualize this
 - [ ] Proof-read our paper
 
 
+## June 28 Update: 
+### Finished tasks: 
+- [x] Finish talking with the teacher and revising our paper
+
+### Tasks for tomorrow: 
+- [ ] Download machine learning videos that I would watch on the plane
+
+
+## June 28 Update: 
+### Finished tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+
+
+## June 28 Update: 
+### Finished tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] 
