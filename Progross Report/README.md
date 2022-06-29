@@ -527,7 +527,7 @@ Scree plot to visualize this
 
 
 ### Tasks for tomorrow: 
-- [ ] Search for books/resources about machine learning
+- [ ] Umn application
 
 
 ## June 28 Update: 
