@@ -523,12 +523,11 @@ Scree plot to visualize this
 
 ## June 28 Update: 
 ### Finished tasks: 
-- [x] d
-- [x] d
+- [x] Downloaded all the required videos
+
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
+- [ ] Search for books/resources about machine learning
 
 
 ## June 28 Update: 
