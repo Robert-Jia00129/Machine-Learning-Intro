@@ -529,6 +529,32 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Umn application
 
+## June 29 Update: 
+### Finished tasks: 
+- [x] Started the umn application
+
+
+### Tasks for tomorrow: 
+- [ ] Finish half way through the umn application
+
+## June 30 Update: 
+### Finished tasks: 
+- [x] Half-way through the umn test
+
+### Tasks for tomorrow: 
+- [ ] Finish the umn test. 
+
+
+## June 28 Update: 
+### Finished tasks: 
+- [x] d
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] 
+
 
 ## June 28 Update: 
 ### Finished tasks: 
