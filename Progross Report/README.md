@@ -545,7 +545,16 @@ Scree plot to visualize this
 - [ ] Finish the umn test. 
 
 
-## June 28 Update: 
+## July 1 Update: 
+### Finished tasks: 
+- [x] Finish distributing the paper tasks to others
+
+### Tasks for tomorrow: 
+- [ ] Get my word documents downloaded
+- [ ] Finish the umn test
+
+
+## July 28 Update: 
 ### Finished tasks: 
 - [x] d
 - [x] d
@@ -555,8 +564,17 @@ Scree plot to visualize this
 - [ ] d
 - [ ] 
 
+## July 28 Update: 
+### Finished tasks: 
+- [x] d
+- [x] d
 
-## June 28 Update: 
+### Tasks for tomorrow: 
+- [ ] d
+- [ ] d
+- [ ] 
+
+## July 28 Update: 
 ### Finished tasks: 
 - [x] d
 - [x] d
