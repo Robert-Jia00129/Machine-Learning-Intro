@@ -554,15 +554,12 @@ Scree plot to visualize this
 - [ ] Finish the umn test
 
 
-## July 28 Update: 
+## July 2 Update: 
 ### Finished tasks: 
-- [x] d
-- [x] d
+- [x] Finished the umn new student preparation quiz
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
-- [ ] 
+- [ ] Finish the 10 quizs on canvas
 
 ## July 28 Update: 
 ### Finished tasks: 
