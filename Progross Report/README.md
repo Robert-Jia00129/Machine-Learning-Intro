@@ -561,15 +561,13 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finish the 10 quizs on canvas
 
-## July 28 Update: 
+## July 3 Update: 
 ### Finished tasks: 
-- [x] d
-- [x] d
+- [x] Formatted our paper according to the IEEE format
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
-- [ ] 
+- [ ] Finish umn quizes
+- [ ] Format the images in the paper, and add links to the figures. 
 
 ## July 28 Update: 
 ### Finished tasks: 
