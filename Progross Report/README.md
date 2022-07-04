@@ -569,7 +569,17 @@ Scree plot to visualize this
 - [ ] Finish umn quizes
 - [ ] Format the images in the paper, and add links to the figures. 
 
+## July 4 Update: 
+### Finished tasks: 
+- [x] Researched on how to format images
+
+### Tasks for tomorrow: 
+- [ ] Finish umn quizes
+- [ ] Format the images in the paper, and add links to the figures. 
+
+
 ## July 28 Update: 
+
 ### Finished tasks: 
 - [x] d
 - [x] d
