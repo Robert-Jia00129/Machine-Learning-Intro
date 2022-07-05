@@ -578,13 +578,37 @@ Scree plot to visualize this
 - [ ] Format the images in the paper, and add links to the figures. 
 
 
-## July 28 Update: 
+## July 5 Update: 
 
 ### Finished tasks: 
-- [x] d
-- [x] d
+- [x] 
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
+- [ ] 
+
+
+## July 5 Update: 
+
+### Finished tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+## July 5 Update: 
+
+### Finished tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+## July 5 Update: 
+
+### Finished tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
 - [ ] 
