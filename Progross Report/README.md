@@ -579,25 +579,22 @@ Scree plot to visualize this
 
 
 ## July 5 Update: 
-
 ### Finished tasks: 
-- [x] 
+- [x] Finished umn quizes
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start working on our paper
 
 
-## July 5 Update: 
-
+## July 6 Update: 
 ### Finished tasks: 
-- [x] 
+- [x] Start adding images to my paper
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish refining the paper
 
 
-## July 5 Update: 
-
+## July 7 Update: 
 ### Finished tasks: 
 - [x] 
 
