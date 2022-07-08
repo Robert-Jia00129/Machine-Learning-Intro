@@ -596,10 +596,10 @@ Scree plot to visualize this
 
 ## July 7 Update: 
 ### Finished tasks: 
-- [x] 
+- [x] Finished adding images, formating them and adding captions to them in word. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish creating references and citations 
 
 
 ## July 5 Update: 
