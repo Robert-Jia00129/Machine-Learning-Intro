@@ -602,6 +602,32 @@ Scree plot to visualize this
 - [ ] Finish creating references and citations 
 
 
+## July 8 Update: 
+
+### Finished tasks: 
+- [x] Finish adding references and citations to the text
+
+### Tasks for tomorrow: 
+- [ ] Final review. Then talk with the teacher
+
+---
+## July 5 Update: 
+
+### Finished tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+## July 5 Update: 
+
+### Finished tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
 ## July 5 Update: 
 
 ### Finished tasks: 
