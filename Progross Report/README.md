@@ -611,13 +611,16 @@ Scree plot to visualize this
 - [ ] Final review. Then talk with the teacher
 
 ---
-## July 5 Update: 
+## July 9 Update: 
 
 ### Finished tasks: 
-- [x] 
+- [x] Finished the final review of the paper. 
+- [x] Added some students in umn
+- [x] Finished course selection
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Going to discuess with the teacher tomorrow
+- [ ] Look for materials that I could preview for umn courses
 ---
 ## July 5 Update: 
 
