@@ -622,13 +622,13 @@ Scree plot to visualize this
 - [ ] Going to discuess with the teacher tomorrow
 - [ ] Look for materials that I could preview for umn courses
 ---
-## July 5 Update: 
+## July 10 Update: 
 
 ### Finished tasks: 
-- [x] 
+- [x] Downloaded materials from upperclassman. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Read throught the materials, discuss with the teacher about our final paper. 
 ---
 
 ## July 5 Update: 
