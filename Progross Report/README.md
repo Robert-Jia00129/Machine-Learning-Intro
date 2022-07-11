@@ -631,6 +631,24 @@ Scree plot to visualize this
 - [ ] Read throught the materials, discuss with the teacher about our final paper. 
 ---
 
+## July 11 Update: 
+
+### Finished tasks: 
+- [x] Consulted my instructor on international student issues
+
+### Tasks for tomorrow: 
+- [ ] Start working on the school course book. 
+---
+## July 10 Update: 
+
+### Finished tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] d
+---
+
+
 ## July 5 Update: 
 
 ### Finished tasks: 
