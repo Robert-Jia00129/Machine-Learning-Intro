@@ -638,14 +638,16 @@ Scree plot to visualize this
 
 ### Tasks for tomorrow: 
 - [ ] Start working on the school course book. 
----
-## July 10 Update: 
 
+
+---
+## July 12 Update: 
 ### Finished tasks: 
-- [x] 
+- [x] Finished checking our paper
+- [x] Applied for TA at GEC
 
 ### Tasks for tomorrow: 
-- [ ] d
+- [ ] Start working on the school course book. 
 ---
 
 
