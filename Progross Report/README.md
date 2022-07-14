@@ -659,13 +659,12 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 2hours of CSCI2011 per day
 
-## July 5 Update: 
-
+## July 6 Update: 
 ### Finished tasks: 
-- [x] 
+- [x] 4 hours of CSCI 2011
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish section 1.2
 
 ## July 5 Update: 
 
