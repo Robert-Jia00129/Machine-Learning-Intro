@@ -651,7 +651,7 @@ Scree plot to visualize this
 ---
 
 
-## July 5 Update: 
+## July 13 Update: 
 ### Finished tasks: 
 - [x] Finished editing final paper!!! 
 - [x] Start working on CSCI2011
@@ -659,17 +659,49 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 2hours of CSCI2011 per day
 
-## July 6 Update: 
+## July 14 Update: 
 ### Finished tasks: 
 - [x] 4 hours of CSCI 2011
 
 ### Tasks for tomorrow: 
 - [ ] Finish section 1.2
 
-## July 5 Update: 
-
+## July 15 Update: 
 ### Finished tasks: 
-- [x] 
+- [x] Finished section 1.2
+
+### Tasks for tomorrow: 
+- [ ] Finish section 1.3
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] d
 
 ### Tasks for tomorrow: 
 - [ ] 
