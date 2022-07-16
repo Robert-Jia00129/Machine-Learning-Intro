@@ -675,10 +675,10 @@ Scree plot to visualize this
 
 ## July 16 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Nearly finished secition 1.3. I'll try harder next time. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish section 1.3, 1.4. I got to keep the pace up. 
 
 
 ## July 16 Update: 
