@@ -683,10 +683,11 @@ Scree plot to visualize this
 
 ## July 16 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Stagnated on section 1.3. Close to finish. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish section 1.3, 1.4. Definitely finish them tomorrow 
+
 
 
 
