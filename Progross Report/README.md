@@ -681,14 +681,49 @@ Scree plot to visualize this
 - [ ] Finish section 1.3, 1.4. I got to keep the pace up. 
 
 
-## July 16 Update: 
+## July 17 Update: 
 ### Finished Tasks: 
 - [x] Stagnated on section 1.3. Close to finish. 
 
 ### Tasks for tomorrow: 
 - [ ] Finish section 1.3, 1.4. Definitely finish them tomorrow 
 
+## July 18 Update:
+### Finished Tasks: 
+- [x] Finished section 1.3. 
 
+### Tasks for tomorrow: 
+- [ ] Finish half of 1.4
+
+
+## July 19 Update: 
+### Finished Tasks: 
+- [x] Finished half of 1.4
+
+### Tasks for tomorrow: 
+- [ ] Finish 1.4
+
+## July 20 Update: 
+### Finished Tasks: 
+- [x] Finished 1.4
+
+### Tasks for tomorrow: 
+- [ ] Start working on 1.5
+
+## July 21 Update: 
+### Finished Tasks: 
+- [x] Started working on 1.5
+
+### Tasks for tomorrow: 
+- [ ] Half way finish 1.5
+
+
+## July 22 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
 
 
 ## July 16 Update: 
