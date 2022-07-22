@@ -719,10 +719,11 @@ Scree plot to visualize this
 
 ## July 22 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Nearly finished 1.5
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish 1.5. 
+- [ ] And it's also time for me to prepare for toefl. Lets start with speaking. 
 
 
 ## July 16 Update: 
