@@ -726,6 +726,20 @@ Scree plot to visualize this
 - [ ] And it's also time for me to prepare for toefl. Lets start with speaking. 
 
 
+## July 23 Update: 
+### Finished Tasks: 
+- [x] Finished 1.5
+### Tasks for tomorrow: 
+- [ ] Start 1.6 tomorrow. Or toefl. (choose one)
+
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] d
+### Tasks for tomorrow: 
+- [ ] d
+
+
 ## July 16 Update: 
 ### Finished Tasks: 
 - [x] d
