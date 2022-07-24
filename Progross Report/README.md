@@ -733,11 +733,11 @@ Scree plot to visualize this
 - [ ] Start 1.6 tomorrow. Or toefl. (choose one)
 
 
-## July 16 Update: 
+## July 24 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Conducted extended research on my travel to the US
 ### Tasks for tomorrow: 
-- [ ] d
+- [ ] Start 1.6 tomorrow. Or toefl. 
 
 
 ## July 16 Update: 
