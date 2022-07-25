@@ -740,11 +740,12 @@ Scree plot to visualize this
 - [ ] Start 1.6 tomorrow. Or toefl. 
 
 
-## July 16 Update: 
+## July 25 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Registered for my toefl test so I could fly to Thailand. So many things recently!
 ### Tasks for tomorrow: 
-- [ ] d
+- [ ] Finish booking all the stuff and get ready for my trip
+- [ ] Study toefl
 
 
 
