@@ -489,12 +489,299 @@ Scree plot to visualize this
 
 
 ---
-## June 17 Update: 
+## June 25 Update: 
+### Finished Tasks: 
+- [x] Finished some minor parts for our paper
+
+### Tasks for tomorrow: 
+- [ ] Finish editing the paper
+
+
+---
+## June 26 Update: 
+### Finished Tasks: 
+- [x] Finished editing the paper!!
+
+### Tasks for tomorrow: 
+- [ ] Revise the paper, then discuss with the teachers. 
+
+## June 27 Update: 
+### Finished Tasks: 
+- [x] Scheduled a time with teachers
+
+### Tasks for tomorrow: 
+- [ ] Proof-read our paper
+
+
+## June 28 Update: 
+### Finished tasks: 
+- [x] Finish talking with the teacher and revising our paper
+
+### Tasks for tomorrow: 
+- [ ] Download machine learning videos that I would watch on the plane
+
+
+## June 28 Update: 
+### Finished tasks: 
+- [x] Downloaded all the required videos
+
+
+### Tasks for tomorrow: 
+- [ ] Umn application
+
+## June 29 Update: 
+### Finished tasks: 
+- [x] Started the umn application
+
+
+### Tasks for tomorrow: 
+- [ ] Finish half way through the umn application
+
+## June 30 Update: 
+### Finished tasks: 
+- [x] Half-way through the umn test
+
+### Tasks for tomorrow: 
+- [ ] Finish the umn test. 
+
+
+## July 1 Update: 
+### Finished tasks: 
+- [x] Finish distributing the paper tasks to others
+
+### Tasks for tomorrow: 
+- [ ] Get my word documents downloaded
+- [ ] Finish the umn test
+
+
+## July 2 Update: 
+### Finished tasks: 
+- [x] Finished the umn new student preparation quiz
+
+### Tasks for tomorrow: 
+- [ ] Finish the 10 quizs on canvas
+
+## July 3 Update: 
+### Finished tasks: 
+- [x] Formatted our paper according to the IEEE format
+
+### Tasks for tomorrow: 
+- [ ] Finish umn quizes
+- [ ] Format the images in the paper, and add links to the figures. 
+
+## July 4 Update: 
+### Finished tasks: 
+- [x] Researched on how to format images
+
+### Tasks for tomorrow: 
+- [ ] Finish umn quizes
+- [ ] Format the images in the paper, and add links to the figures. 
+
+
+## July 5 Update: 
+### Finished tasks: 
+- [x] Finished umn quizes
+
+### Tasks for tomorrow: 
+- [ ] Start working on our paper
+
+
+## July 6 Update: 
+### Finished tasks: 
+- [x] Start adding images to my paper
+
+### Tasks for tomorrow: 
+- [ ] Finish refining the paper
+
+
+## July 7 Update: 
+### Finished tasks: 
+- [x] Finished adding images, formating them and adding captions to them in word. 
+
+### Tasks for tomorrow: 
+- [ ] Finish creating references and citations 
+
+
+## July 8 Update: 
+
+### Finished tasks: 
+- [x] Finish adding references and citations to the text
+
+### Tasks for tomorrow: 
+- [ ] Final review. Then talk with the teacher
+
+---
+## July 9 Update: 
+
+### Finished tasks: 
+- [x] Finished the final review of the paper. 
+- [x] Added some students in umn
+- [x] Finished course selection
+
+### Tasks for tomorrow: 
+- [ ] Going to discuess with the teacher tomorrow
+- [ ] Look for materials that I could preview for umn courses
+---
+## July 10 Update: 
+
+### Finished tasks: 
+- [x] Downloaded materials from upperclassman. 
+
+### Tasks for tomorrow: 
+- [ ] Read throught the materials, discuss with the teacher about our final paper. 
+---
+
+## July 11 Update: 
+
+### Finished tasks: 
+- [x] Consulted my instructor on international student issues
+
+### Tasks for tomorrow: 
+- [ ] Start working on the school course book. 
+
+
+---
+## July 12 Update: 
+### Finished tasks: 
+- [x] Finished checking our paper
+- [x] Applied for TA at GEC
+
+### Tasks for tomorrow: 
+- [ ] Start working on the school course book. 
+---
+
+
+## July 13 Update: 
+### Finished tasks: 
+- [x] Finished editing final paper!!! 
+- [x] Start working on CSCI2011
+
+### Tasks for tomorrow: 
+- [ ] 2hours of CSCI2011 per day
+
+## July 14 Update: 
+### Finished tasks: 
+- [x] 4 hours of CSCI 2011
+
+### Tasks for tomorrow: 
+- [ ] Finish section 1.2
+
+## July 15 Update: 
+### Finished tasks: 
+- [x] Finished section 1.2
+
+### Tasks for tomorrow: 
+- [ ] Finish section 1.3
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] Nearly finished secition 1.3. I'll try harder next time. 
+
+### Tasks for tomorrow: 
+- [ ] Finish section 1.3, 1.4. I got to keep the pace up. 
+
+## July 17 Update: 
+### Finished Tasks: 
+- [x] Stagnated on section 1.3. Close to finish. 
+
+### Tasks for tomorrow: 
+- [ ] Finish section 1.3, 1.4. Definitely finish them tomorrow 
+
+## July 18 Update:
+### Finished Tasks: 
+- [x] Finished section 1.3. 
+
+### Tasks for tomorrow: 
+- [ ] Finish half of 1.4
+
+
+## July 19 Update: 
+### Finished Tasks: 
+- [x] Finished half of 1.4
+
+### Tasks for tomorrow: 
+- [ ] Finish 1.4
+
+## July 20 Update: 
+### Finished Tasks: 
+- [x] Finished 1.4
+
+### Tasks for tomorrow: 
+- [ ] Start working on 1.5
+
+## July 21 Update: 
+### Finished Tasks: 
+- [x] Started working on 1.5
+
+### Tasks for tomorrow: 
+- [ ] Half way finish 1.5
+
+
+## July 22 Update: 
+### Finished Tasks: 
+- [x] Nearly finished 1.5
+
+### Tasks for tomorrow: 
+- [ ] Finish 1.5. 
+- [ ] And it's also time for me to prepare for toefl. Lets start with speaking. 
+
+
+## July 23 Update: 
+### Finished Tasks: 
+- [x] Finished 1.5
+### Tasks for tomorrow: 
+- [ ] Start 1.6 tomorrow. Or toefl. (choose one)
+
+
+## July 24 Update: 
+### Finished Tasks: 
+- [x] Conducted extended research on my travel to the US
+### Tasks for tomorrow: 
+- [ ] Start 1.6 tomorrow. Or toefl. 
+
+
+## July 25 Update: 
+### Finished Tasks: 
+- [x] Registered for my toefl test so I could fly to Thailand. So many things recently!
+### Tasks for tomorrow: 
+- [ ] Finish booking all the stuff and get ready for my trip
+- [ ] Study toefl
+
+
+
+## July 26 Update: 
+### Finished Tasks: 
+- [x] Sorted everything required for my trip. 
+### Tasks for tomorrow: 
+- [ ] Study toefl!!!!
+
+
+## July 16 Update: 
 ### Finished Tasks: 
 - [x] d
+### Tasks for tomorrow: 
+- [ ] 
+
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] d
+### Tasks for tomorrow: 
+- [ ] 
+
+
+## July 16 Update: 
+### Finished Tasks: 
 - [x] d
 
 ### Tasks for tomorrow: 
-- [ ] d
-- [ ] d
-- [ ] d
+- [ ] 
+
+
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] d
+
+### Tasks for tomorrow: 
+- [ ] 
