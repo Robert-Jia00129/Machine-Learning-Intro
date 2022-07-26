@@ -749,6 +749,20 @@ Scree plot to visualize this
 
 
 
+## July 26 Update: 
+### Finished Tasks: 
+- [x] Sorted everything required for my trip. 
+### Tasks for tomorrow: 
+- [ ] Study toefl!!!!
+
+
+## July 16 Update: 
+### Finished Tasks: 
+- [x] d
+### Tasks for tomorrow: 
+- [ ] 
+
+
 ## July 16 Update: 
 ### Finished Tasks: 
 - [x] d
