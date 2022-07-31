@@ -756,28 +756,42 @@ Scree plot to visualize this
 - [ ] Study toefl!!!!
 
 
-## July 16 Update: 
+## July 27 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Gathered required materials for the toefl test
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Study them!
 
 
-## July 16 Update: 
+## July 28 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Mastered task1 for verbal part
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Master task2
 
 
-## July 16 Update: 
+## July 29 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Mastered task2 & 3
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Master task 4
 
 
+
+## July 30 Update: 
+### Finished Tasks: 
+- [x] Mastered task 4 and reading. 
+
+### Tasks for tomorrow: 
+- [ ] Overall review
+
+## July 31 Update: 
+### Finished Tasks: 
+- [x] Toefl today!!! Let's do it!
+
+### Tasks for tomorrow: 
+- [ ] Visit other cities in China
 
 ## July 16 Update: 
 ### Finished Tasks: 
