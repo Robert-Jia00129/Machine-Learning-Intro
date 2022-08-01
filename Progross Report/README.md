@@ -793,6 +793,13 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Visit other cities in China
 
+## August 1 Update: 
+### Finished Tasks: 
+- [x] From today. I determined my mind of getting into university of Michigan. I would work all the way towards this goal, at no matter what consequence. 
+
+### Tasks for tomorrow: 
+- [ ] Behave differently in the company tomorrow. This is the start to my plan. 
+
 ## July 16 Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
