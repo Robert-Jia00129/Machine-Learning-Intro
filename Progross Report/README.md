@@ -795,7 +795,7 @@ Scree plot to visualize this
 
 ## July 16 Update: 
 ### Finished Tasks: 
-- [x] d
+- [x] Arrived in Ningbo, planning on return to China in 2 days
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Investigate in the marketing department. 
