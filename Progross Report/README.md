@@ -801,7 +801,7 @@ Scree plot to visualize this
 - [ ] Behave differently in the company tomorrow. This is the start to my plan. 
 
 
-## August 3 Update: 
+## August 2 Update: 
 ### Finished Tasks: 
 - [x] Finished investigating in how products are sold on taobao
 - [x] Finished 33% of new student prep course. 
@@ -809,7 +809,21 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finish 66% of the student prep course
 
-## July 16 Update: 
+## August 3 Update: 
+### Finished Tasks: 
+- [x] Mastered stkills on how to sell products
+
+### Tasks for tomorrow: 
+- [ ] Finished 66% of the new student prep courses. 
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+## August Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
 
