@@ -800,20 +800,14 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Behave differently in the company tomorrow. This is the start to my plan. 
 
-## August 2 Update: 
-### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
-
-### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
 
 ## August 3 Update: 
 ### Finished Tasks: 
-- [x] Finished umn student prep course. 
-- [ ] Finished 66% of new student prep course. 
+- [x] Finished investigating in how products are sold on taobao
+- [x] Finished 33% of new student prep course. 
 
 ### Tasks for tomorrow: 
-- [ ] Finish all of the student prep course
+- [ ] Finish 66% of the student prep course
 
 ## July 16 Update: 
 ### Finished Tasks: 
