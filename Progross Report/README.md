@@ -816,12 +816,16 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finished 66% of the new student prep courses. 
 
-## August Update: 
+## August 4 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Start working on my CSCI 2011 course
+- [x] Wrote emails to ets stressing my concerns. 
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Continue to write emails to ets and the job position
+- [ ] Continue doing CSCI2011 course
+- [ ] Book flights and tests. 
+
 
 ## August Update: 
 ### Finished Tasks: 
