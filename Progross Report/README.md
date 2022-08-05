@@ -827,6 +827,35 @@ Scree plot to visualize this
 - [ ] Book flights and tests. 
 
 
+## August 5 Update: 
+### Finished Tasks: 
+- [x] Finished 1/3 section 1.6
+- [x] Finished booking flights, sending emails to ets and my professors
+
+### Tasks for tomorrow: 
+- [ ] Finish 1.6
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
 ## August Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
