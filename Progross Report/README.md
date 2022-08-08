@@ -849,12 +849,12 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Finish the whole chapter 1!!!!
 
-## August Update: 
+## August 8 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Finished whole chpater 1!!!!!!
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Start section 2.1 tomorrow!!
 
 ## August Update: 
 ### Finished Tasks: 
