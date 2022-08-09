@@ -856,6 +856,27 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Start section 2.1 tomorrow!!
 
+## August 9 Update: 
+### Finished Tasks: 
+- [x] Finished section 2.1
+
+### Tasks for tomorrow: 
+- [ ] Continue with 2.2 tomorrow!!!! Great progress. Keep this going
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
 ## August Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
