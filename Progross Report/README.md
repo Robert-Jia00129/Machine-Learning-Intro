@@ -870,6 +870,14 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Continue section 2.3 tomorrow. I could finish these within 64 days! 
 
+## August 11 Update: 
+### Finished Tasks: 
+- [x] Nearly finished 2.3
+
+### Tasks for tomorrow: 
+- [ ] Finish 2.3 and 2.4
+- [ ] After finishing chapter 2, start investigating in Linear Algebra. 
+
 ## August Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
@@ -877,9 +885,19 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Investigate in the marketing department. 
 
+
 ## August Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
 
 ### Tasks for tomorrow: 
 - [ ] Investigate in the marketing department. 
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
