@@ -883,15 +883,15 @@ Scree plot to visualize this
 - [x] Finished 2.3 Neaarly finished 2.4
 
 ### Tasks for tomorrow: 
-- [ ] Finish 2.4. Finish 2.6 by 
+- [ ] Finish 2.4. Finish 2.6 by 8/15
 
 
-## August Update: 
+## August 13 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Half way through 2.5
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Finish 2.6 by 8/16!!
 
 
 ## August Update: 
