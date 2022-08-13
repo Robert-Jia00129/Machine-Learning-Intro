@@ -878,12 +878,12 @@ Scree plot to visualize this
 - [ ] Finish 2.3 and 2.4
 - [ ] After finishing chapter 2, start investigating in Linear Algebra. 
 
-## August Update: 
+## August 12 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Finished 2.3 Neaarly finished 2.4
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Finish 2.4. Finish 2.6 by 
 
 
 ## August Update: 
