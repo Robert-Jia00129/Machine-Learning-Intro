@@ -894,6 +894,24 @@ Scree plot to visualize this
 - [ ] Finish 2.6 by 8/16!!
 
 
+## August 14 Update: 
+### Finished Tasks: 
+- [x] Finished section 2.5
+
+### Tasks for tomorrow: 
+- [ ] Finish 2.6 and summarize all the questions by 8/16!!
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
 ## August Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
