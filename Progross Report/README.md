@@ -912,6 +912,51 @@ Scree plot to visualize this
 
 
 
+## August 16 Update: 
+### Finished Tasks: 
+- [x] Finished summaraizing the questions and asked professor!!
+
+### Tasks for tomorrow: 
+- [ ] Wait for the response and contact ets. 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
 ## August Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
