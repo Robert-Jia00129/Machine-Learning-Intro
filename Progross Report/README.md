@@ -921,12 +921,13 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 17 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Worked on feedback from the professor
+- [x] Contacted ets staff
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Finish resolving all the questions
 
 
 
