@@ -941,9 +941,10 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 19 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Organized all the videoes
+- [ ] Called the flight company
 
 ### Tasks for tomorrow: 
 - [ ] Investigate in the marketing department. 
