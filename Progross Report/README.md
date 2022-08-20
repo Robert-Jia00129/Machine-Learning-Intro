@@ -947,16 +947,17 @@ Scree plot to visualize this
 - [ ] Called the flight company
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Get ready for my trip
 
 
 
-## August Update: 
+## August 20 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Prepare for making my visa in Thailand
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Take the flight!! 
+- [ ] Watch lessons on machine learning during the flight
 
 
 
