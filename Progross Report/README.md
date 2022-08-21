@@ -944,7 +944,7 @@ Scree plot to visualize this
 ## August 19 Update: 
 ### Finished Tasks: 
 - [x] Organized all the videoes
-- [ ] Called the flight company
+- [x] Called the flight company
 
 ### Tasks for tomorrow: 
 - [ ] Get ready for my trip
@@ -958,6 +958,26 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Take the flight!! 
 - [ ] Watch lessons on machine learning during the flight
+
+
+
+## August 21 Update: 
+### Finished Tasks: 
+- [x] Arrived in Thailand and got everything sorted!!! Amazing! 
+- [x] Finished Chapter 1 and 2 of the Machine learning video
+
+### Tasks for tomorrow: 
+- [ ] Finish my trip. 
+- [ ] Finish machine learning video!! 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
 
 
 
