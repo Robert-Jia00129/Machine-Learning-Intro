@@ -972,12 +972,13 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 22 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Finished Chapter 3 of the Machine learning video
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Settle my U-card, SIM-card, bank card, and everything else
+- [ ] Get familiar around the campus
 
 
 
