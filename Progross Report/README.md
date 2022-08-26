@@ -982,7 +982,7 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 23 Update: 
 ### Finished Tasks: 
 - [x] Settled my U-card
 - [x] Bought a SIM card
@@ -991,6 +991,60 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Plan for my rooms and apartments 
 - [ ] Attend the new student orientation day
+
+
+## August 24 Update: 
+### Finished Tasks: 
+- [x] Created my T-mobile phone number
+
+### Tasks for tomorrow: 
+- [ ] Bank card
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Created a bank card 
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
 
 
 ## August Update: 
