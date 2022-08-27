@@ -1002,12 +1002,13 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 25 Update: 
 ### Finished Tasks: 
-- [x] Created a bank card 
+- [x] Created a new bank card 
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Get most things sorted. 
+- [ ] Prepare to move to the apartment
 
 
 
