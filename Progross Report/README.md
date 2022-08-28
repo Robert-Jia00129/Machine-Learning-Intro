@@ -1048,7 +1048,7 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Investigate in the marketing department. 
 
-
+ 
 
 ## August Update: 
 ### Finished Tasks: 
