@@ -1012,12 +1012,13 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 26 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Visited the different apartments. 
+- [x] Looked for people who could be my guarantor
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Find a guarantor for my apartment
 
 
 
