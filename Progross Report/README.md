@@ -1022,12 +1022,13 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 27 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Found a guarantor for my apartment. Actually even more than one!
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Adjust my application and apply for it again. I need to get apartment sorted as quick as possible and I could start studying. 
+- [ ] Create an account for Bank of America
 
 
 
