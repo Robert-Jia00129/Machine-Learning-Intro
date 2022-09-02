@@ -1032,12 +1032,12 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 28 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Created an account for Bank of America
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Let my guarantor sign the documents
 
 
 
