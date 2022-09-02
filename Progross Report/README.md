@@ -1041,6 +1041,15 @@ Scree plot to visualize this
 
 
 
+## August 29 Update: 
+### Finished Tasks: 
+- [x] Found the guarantor and let him signed the lease!!!
+
+### Tasks for tomorrow: 
+- [ ] Apply to CUSA, CSSA, CSU. This would be a valueable experience for me to write. 
+
+ 
+
 ## August Update: 
 ### Finished Tasks: 
 - [x] Arrived in Ningbo, planning on return to China in 2 days
@@ -1048,7 +1057,23 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Investigate in the marketing department. 
 
- 
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
+
+## August Update: 
+### Finished Tasks: 
+- [x] Arrived in Ningbo, planning on return to China in 2 days
+
+### Tasks for tomorrow: 
+- [ ] Investigate in the marketing department. 
+
 
 ## August Update: 
 ### Finished Tasks: 
