@@ -1050,12 +1050,12 @@ Scree plot to visualize this
 
  
 
-## August Update: 
+## August 30 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Applied to these institutions. Waiting for them to accept me. 
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Go to deposit money and get a new credit card. 
 
 
 
