@@ -1059,12 +1059,12 @@ Scree plot to visualize this
 
 
 
-## August Update: 
+## August 31 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Deposited money in. Wait for some days and then apply for a new credit card
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Investigate in how to break the contract
 
 
 ## August Update: 
