@@ -1075,10 +1075,12 @@ Scree plot to visualize this
 - [ ] Look for additional information to support my submission. 
 
 
-## August Update: 
+## September 2 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Met with a school therapist to provide additional support documents
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Go to the hospital and find support. 
+
+
 
