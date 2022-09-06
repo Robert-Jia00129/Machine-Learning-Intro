@@ -1067,12 +1067,12 @@ Scree plot to visualize this
 - [ ] Investigate in how to break the contract
 
 
-## August Update: 
+## September 1 Update: 
 ### Finished Tasks: 
-- [x] Arrived in Ningbo, planning on return to China in 2 days
+- [x] Submit my request of breaking the contract. 
 
 ### Tasks for tomorrow: 
-- [ ] Investigate in the marketing department. 
+- [ ] Look for additional information to support my submission. 
 
 
 ## August Update: 
