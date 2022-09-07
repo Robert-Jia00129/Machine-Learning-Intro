@@ -1105,10 +1105,51 @@ Scree plot to visualize this
 
 ## September 5 Update: 
 ### Finished Tasks: 
+- [x] Sent the email to the housing department. Just need to wait for the results
+- [x] Prepared required materials for my calss
+
+### Tasks for tomorrow: 
+- [ ] Apply for credit card again
+- [ ] Study properly 
+
+
+
+
+## September 6 Update: 
+### Finished Tasks: 
+- [x] Got a new chase credit card!! 
+- [x] Listened to the class today. Got into groups. 
+- [x] Asked for required preparation to become a TA
+- [x] Checked out from my dorm 
+- [x] Start building my bed!!
+
+### Tasks for tomorrow: 
+- [ ] Call us bank
+- [ ] Take the classes properly
+
+
+
+
+
+## September 5 Update: 
+### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
+
+
+
+
+
+## September 5 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
 
 
 
