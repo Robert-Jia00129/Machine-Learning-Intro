@@ -1096,14 +1096,14 @@ Scree plot to visualize this
 
 ## September 4 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Prepared all my furnitures! 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Send the housing department proofs and request for a release. 
 
 
 
-## September  Update: 
+## September 5 Update: 
 ### Finished Tasks: 
 - [x] 
 
