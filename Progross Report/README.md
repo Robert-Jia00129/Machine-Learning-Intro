@@ -1084,3 +1084,32 @@ Scree plot to visualize this
 
 
 
+
+## September 3 Update: 
+### Finished Tasks: 
+- [x] Going to the hospital to get the proof
+
+### Tasks for tomorrow: 
+- [ ] Order my furnitures for my apartment. 
+
+
+
+## September 4 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+
+## September  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+
+
