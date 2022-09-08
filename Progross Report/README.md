@@ -1131,12 +1131,14 @@ Scree plot to visualize this
 
 
 
-## September 5 Update: 
+## September 7 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Learn to use Notion
+- [x] Took four classes today
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Learn to master Notion
+- [ ] Get scheduled for all the classes
 
 
 
