@@ -1144,6 +1144,25 @@ Scree plot to visualize this
 
 
 
+## September 8 Update: 
+### Finished Tasks: 
+- [x] Finished getting draws here and setting up my bed!! 
+- [x] Start to learn how to use notion
+
+### Tasks for tomorrow: 
+- [ ] Listen to classes carefully and update my Notion requirements
+
+
+
+## September 5 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+
 ## September 5 Update: 
 ### Finished Tasks: 
 - [x] 
