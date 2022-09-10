@@ -1154,12 +1154,17 @@ Scree plot to visualize this
 
 
 
-## September 5 Update: 
+## September 9 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished a day of class
+- [x] Bought a desk and a chair!!!!!! Nearly finished furnishing my home
+- [x] Kind of set up everything that I need to do
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish Writing homework
+- [ ] Email professors and tell them I'm giving them gifts. 
+
+
 
 
 
