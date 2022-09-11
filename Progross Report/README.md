@@ -1168,6 +1168,29 @@ Scree plot to visualize this
 
 
 
+## September 10 Update: 
+### Finished Tasks: 
+- [x] Finished writing hw1
+
+### Tasks for tomorrow: 
+- [ ] Finish Writing homework
+- [ ] Email professors and tell them I'm giving them gifts. 
+
+
+
+
+
+## September 5 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+
+
+
 ## September 5 Update: 
 ### Finished Tasks: 
 - [x] 
