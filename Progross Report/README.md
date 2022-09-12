@@ -1180,12 +1180,15 @@ Scree plot to visualize this
 
 
 
-## September 5 Update: 
+## September 11 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished Writing hw2
+- [x] Finished writing project first draft
+- [x] Make appointment with my teachers and give them gifts
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish my CSCI 2033 hw
+- [ ] Finish driver license registration
 
 
 
