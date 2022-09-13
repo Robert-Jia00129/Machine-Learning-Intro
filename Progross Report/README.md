@@ -1194,6 +1194,33 @@ Scree plot to visualize this
 
 
 
+## September 12 Update: 
+### Finished Tasks: 
+- [x] Grew accustomed to the canvus page. 
+
+### Tasks for tomorrow: 
+- [ ] Finish my CSCI 2033 hw
+- [ ] Finish driver license registration
+
+
+
+ 
+
+
+
+## September 5 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+
+ 
+
+
+
 ## September 5 Update: 
 ### Finished Tasks: 
 - [x] 
