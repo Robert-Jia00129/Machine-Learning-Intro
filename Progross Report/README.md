@@ -1208,12 +1208,13 @@ Scree plot to visualize this
 
 
 
-## September 5 Update: 
+## September 13 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished with most of my homework
+- [x] Acquired Scholarship details
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Apply for scholarship
 
 
 
