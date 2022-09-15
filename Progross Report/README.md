@@ -1222,12 +1222,13 @@ Scree plot to visualize this
 
 
 
-## September 5 Update: 
+## September 14 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Start learning java again
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish learning java
+- [ ] Apply for scholarship
 
 
 
