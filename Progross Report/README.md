@@ -1234,4 +1234,63 @@ Scree plot to visualize this
 
  
 
+## September 15 Update: 
+### Finished Tasks: 
+- [x] Finished learning java
+
+### Tasks for tomorrow: 
+- [ ] Apply for scholarship
+
+
+
+ 
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+ 
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+ 
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+ 
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
+ 
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+
 
