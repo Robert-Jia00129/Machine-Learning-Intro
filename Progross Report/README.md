@@ -1,5 +1,7 @@
 # This folder records my everday learning from github
-I use this floder as a place to write my daily progress and practise markdown syntax. 
+> I use this floder as a place to write my daily progress and practise markdown syntax. 
+> 
+> I hope that I could keep a record of learning or doing something new everyday no matter what situation. 
 ## Besides my daily progress report, there is a cheatsheet on markdown language included in this file. 
 The cheatsheet included is extracted online [^1]
 
@@ -1245,22 +1247,24 @@ Scree plot to visualize this
 
  
 
-## September 14 Update: 
+## September 16 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Attended CUSA meetings
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Help hold the CUSA event tomorrow
+- [ ] Aapply for scholarship
 
 
  
 
-## September 14 Update: 
+## September 17 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Held CUSA events. 
+- [x] Applied for CSU
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Apply for scholarship
 
 
  
