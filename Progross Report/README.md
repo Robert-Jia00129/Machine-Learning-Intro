@@ -1271,20 +1271,20 @@ Scree plot to visualize this
 
 ## September 18 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Scheduled my calendar and set up the account for scholarship
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] apply for scholarship
 
 
  
 
-## September 14 Update: 
+## September 19 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Sent email to professor about research opportunities
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] apply for scholarship
 
 
  
