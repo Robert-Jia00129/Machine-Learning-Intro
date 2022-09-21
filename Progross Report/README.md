@@ -1289,6 +1289,41 @@ Scree plot to visualize this
 
  
 
+## September 20 Update: 
+### Finished Tasks: 
+- [x] Discussed with professor about research opportunities
+- [x] Try to figure out my transferring process. 
+
+### Tasks for tomorrow: 
+- [ ] Ask others about my transferring 
+- [ ] Scholarship could be postponed since I might transfer
+
+ 
+
+
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+
+
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+
+
+
 ## September 14 Update: 
 ### Finished Tasks: 
 - [x] 
