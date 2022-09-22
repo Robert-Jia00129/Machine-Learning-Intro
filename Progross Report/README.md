@@ -1302,12 +1302,13 @@ Scree plot to visualize this
 
 
 
-## September 14 Update: 
+## September 21 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Prepare for CSCI2033
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Ask others about my transferring 
+- [ ] Make sure about the details of transferring 
 
  
 
