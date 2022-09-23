@@ -1314,12 +1314,12 @@ Scree plot to visualize this
 
 
 
-## September 14 Update: 
+## September 22 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Prepared for the CSCI2033 tomorrow
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Discuss with the professor about research details. 
 
  
 
