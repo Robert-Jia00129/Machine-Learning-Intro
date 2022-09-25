@@ -1337,7 +1337,7 @@ Scree plot to visualize this
 
 
 
-## September 14 Update: 
+## September 24 Update: 
 ### Finished Tasks: 
 - [x] Researched on the program
 
