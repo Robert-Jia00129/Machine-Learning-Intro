@@ -1325,6 +1325,74 @@ Scree plot to visualize this
 
 
 
+## September 23 Update: 
+### Finished Tasks: 
+- [x] Discussed with the professor about research program details
+
+
+### Tasks for tomorrow: 
+- [ ] Start researching on the program tomorrow
+
+ 
+
+
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] Researched on the program
+
+### Tasks for tomorrow: 
+- [ ] Finish researching the project
+- [ ] Write an email to UMich transfer
+
+ 
+
+
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+
+
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+
+
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+
+
+
+## September 14 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+
+
+
 ## September 14 Update: 
 ### Finished Tasks: 
 - [x] 
