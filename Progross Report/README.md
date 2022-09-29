@@ -1349,23 +1349,23 @@ Scree plot to visualize this
 
 
 
-## September 14 Update: 
+## September 25 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished researching the project
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Write an email to UMich transfer
 
  
 
 
 
-## September 14 Update: 
+## September 26 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Start coding on the project 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Write an email to UMich transfer
 
  
 
