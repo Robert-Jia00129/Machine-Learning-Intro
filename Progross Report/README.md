@@ -1371,12 +1371,12 @@ Scree plot to visualize this
 
 
 
-## September 14 Update: 
+## September 27 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Understand basic concepts of Z3
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Write an email to UMich
 
  
 
