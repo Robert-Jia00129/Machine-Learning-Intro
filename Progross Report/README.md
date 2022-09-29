@@ -1363,6 +1363,7 @@ Scree plot to visualize this
 ## September 26 Update: 
 ### Finished Tasks: 
 - [x] Start coding on the project 
+- [x] Understood basic concepts of Z3
 
 ### Tasks for tomorrow: 
 - [ ] Write an email to UMich transfer
@@ -1373,21 +1374,22 @@ Scree plot to visualize this
 
 ## September 27 Update: 
 ### Finished Tasks: 
-- [x] Understand basic concepts of Z3
+- [x] Finished programming the project
 
 ### Tasks for tomorrow: 
 - [ ] Write an email to UMich
+- [ ] Discuss with the professor about the result
 
  
 
 
 
-## September 14 Update: 
+## September 28 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Discussed with the professor about the project
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Write an email to UMich transfer
 
  
 
