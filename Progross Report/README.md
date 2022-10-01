@@ -1404,14 +1404,14 @@ Scree plot to visualize this
 
  
 
-## September 14 Update: 
+## September 30 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] written an email to UMich transfer and all my professors! 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Try to finish the Sudoku project part of creating new puzzles. 
 
- 
+
 
 ## September 14 Update: 
 ### Finished Tasks: 
