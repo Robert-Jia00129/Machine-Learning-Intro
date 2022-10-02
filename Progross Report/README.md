@@ -1413,7 +1413,47 @@ Scree plot to visualize this
 
 
 
-## September 14 Update: 
+## October 1 Update: 
+### Finished Tasks: 
+- [x] Haven't started the sudoku yet, but have emailed professor about the details 
+
+### Tasks for tomorrow: 
+- [ ] Do extra chapter exercises to prepare for the quiz
+
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+## October Update: 
 ### Finished Tasks: 
 - [x] 
 
