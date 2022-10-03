@@ -1421,12 +1421,13 @@ Scree plot to visualize this
 - [ ] Do extra chapter exercises to prepare for the quiz
 
  
-## October Update: 
+## October 2 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Conducted WRIT 1301 research, got familiar with research skills
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Do extra chapter exercises to prepare for the quiz
+- [ ] Start working on sudoku
 
  
 ## October Update: 
