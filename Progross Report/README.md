@@ -1430,20 +1430,22 @@ Scree plot to visualize this
 - [ ] Start working on sudoku
 
  
-## October Update: 
+## October 3 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Contacted Chase for business account
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Do extra chapter exercises to prepare for the quiz
+- [ ] Start working on sudoku
 
  
-## October Update: 
+## October 4 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Try to finish all other homework so I could focus on sudoku
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Do extra chapter exercises to prepare for the quiz
+- [ ] Start working on sudoku
 
  
 ## October Update: 
