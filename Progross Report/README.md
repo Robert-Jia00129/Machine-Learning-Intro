@@ -1448,12 +1448,23 @@ Scree plot to visualize this
 - [ ] Start working on sudoku
 
  
-## October Update: 
+## October 5 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Start working on sudoku
+- [x] Moved it to jupyter notebook. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Do extra chapter exercises to prepare for the quiz
+
+ 
+## October 6 Update: 
+### Finished Tasks: 
+- [x] Did extra exercises on CSCI 2033
+
+### Tasks for tomorrow: 
+- [ ] Finish all extra exercises and start working on 1913 project
+
+ 
 
  
 ## October Update: 
@@ -1462,8 +1473,6 @@ Scree plot to visualize this
 
 ### Tasks for tomorrow: 
 - [ ] 
-
- 
 
  
  
