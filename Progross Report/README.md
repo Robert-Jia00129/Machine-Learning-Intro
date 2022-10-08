@@ -1467,6 +1467,35 @@ Scree plot to visualize this
  
 
  
+## October 7 Update: 
+### Finished Tasks: 
+- [x] Discussed with the professor about the sudoku project 
+- [x] Work on the CSCI 1913 project. Half-way through
+
+### Tasks for tomorrow: 
+- [ ] Business account at Chase 
+- [ ] Start reviewing for CSCI 2011
+
+ 
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+ 
 ## October Update: 
 ### Finished Tasks: 
 - [x] 
