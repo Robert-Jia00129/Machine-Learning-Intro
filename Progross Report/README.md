@@ -1478,12 +1478,15 @@ Scree plot to visualize this
 
  
  
-## October Update: 
+## October 8 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished building the sudoku puzzle
+- [x] FInished CSCI 1913 project
+- [x] Went to research business account at Chase
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start reviewing for CSCI 2011
+- [ ] Apply for a brand name for the business
 
  
  
