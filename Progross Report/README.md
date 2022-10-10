@@ -1490,6 +1490,16 @@ Scree plot to visualize this
 
  
  
+## October 9 Update: 
+### Finished Tasks: 
+- [x] Start reviewing for CSCI 2011
+
+### Tasks for tomorrow: 
+- [ ] Keep reviewing for CSCI 2011
+- [ ] Apply for a brand name for the business
+
+ 
+ 
 ## October Update: 
 ### Finished Tasks: 
 - [x] 
@@ -1498,6 +1508,21 @@ Scree plot to visualize this
 - [ ] 
 
  
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
  
 ## October Update: 
 ### Finished Tasks: 
