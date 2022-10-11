@@ -1500,12 +1500,14 @@ Scree plot to visualize this
 
  
  
-## October Update: 
+## October 10 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished reviewing for CSCI 2011
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Review for my new CSCI 2011 classes 
+- [ ] Apply for a brand name for the business
+
 
  
 ## October Update: 
