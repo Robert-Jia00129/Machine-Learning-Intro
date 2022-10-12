@@ -1510,11 +1510,14 @@ Scree plot to visualize this
 
 
  
-## October Update: 
+## October 11 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Half way through my WRIT1301 project2
 
 ### Tasks for tomorrow: 
+- [ ] Review for my new CSCI 2011 classes 
+- [ ] Apply for a brand name for the business
+- [ ] Gym
 - [ ] 
 
  
