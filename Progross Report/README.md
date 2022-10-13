@@ -1521,12 +1521,17 @@ Scree plot to visualize this
 - [ ] 
 
  
-## October Update: 
+## October 12 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finally finished WRIT 1301 project! 
+- [x] Reviewed about the basics of matplotlib
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Review for my new CSCI 2011 classes 
+- [ ] Apply for a brand name for the business
+- [ ] Gym
+- [ ] Email TA, 
+- [ ] Email umich
 
  
 ## October Update: 
