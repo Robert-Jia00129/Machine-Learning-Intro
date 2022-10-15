@@ -1534,6 +1534,40 @@ Scree plot to visualize this
 - [ ] Email umich
 
  
+## October 13 Update: 
+### Finished Tasks: 
+- [x] Gym
+
+### Tasks for tomorrow: 
+- [ ] Review for my new CSCI 2011 classes 
+- [ ] Apply for a brand name for the business
+- [ ] Email TA, 
+- [ ] Email umich
+
+
+ 
+## October 14 Update: 
+### Finished Tasks: 
+- [x] Reviewed for CSCI 2011 classes
+- [x] Start Sudoku project
+
+
+### Tasks for tomorrow: 
+- [ ] Review for my new CSCI 2011 classes 
+- [ ] Apply for a brand name for the business
+- [ ] Email TA, 
+- [ ] Email umich
+
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+ 
+ 
 ## October Update: 
 ### Finished Tasks: 
 - [x] 
