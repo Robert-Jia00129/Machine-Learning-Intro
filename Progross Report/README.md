@@ -1574,6 +1574,67 @@ Scree plot to visualize this
 
  
  
+## October 16 Update: 
+### Finished Tasks: 
+- [x] Emailed TA
+
+### Tasks for tomorrow: 
+- [ ] Review for my new CSCI 2011 classes 
+- [ ] Apply for a brand name for the business
+- [ ] Email umich
+- [ ] Learn to drive
+- [ ] Prepare clothes
+
+  
+ 
+## October 17 Update: 
+### Finished Tasks: 
+- [x] Contacted people who would like to take me driving
+
+### Tasks for tomorrow: 
+- [ ] Review for my new CSCI 2011 classes 
+- [ ] Apply for a brand name for the business
+- [ ] Email umich
+- [ ] Learn to drive
+- [ ] Prepare clothes
+
+  
+ 
+## October 18 Update: 
+### Finished Tasks: 
+- [x] Reviewed for CSCI 2011
+
+### Tasks for tomorrow: 
+- [ ] Apply for a brand name for the business
+- [ ] Email umich
+- [ ] Learn to drive
+- [ ] Prepare clothes
+- [ ] Keep working on the sudoku project
+
+  
+ 
+## October 19 Update: 
+### Finished Tasks: 
+- [x] Worked on the sudoku project
+- [x] Emailed Umich
+
+### Tasks for tomorrow: 
+- [ ] Apply for a brand name for the business
+- [ ] Learn to drive
+- [ ] Prepare clothes
+- [ ] Finish generating sudokus. 
+
+  
+ 
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+  
+ 
 ## October Update: 
 ### Finished Tasks: 
 - [x] 
