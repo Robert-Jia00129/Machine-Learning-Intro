@@ -1626,7 +1626,7 @@ Scree plot to visualize this
 
   
  
-## October Update: 
+## October 20 Update: 
 ### Finished Tasks: 
 - [x] Sent emails to ISSS
 
@@ -1639,12 +1639,15 @@ Scree plot to visualize this
 
   
  
-## October Update: 
+## October 21Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished generating sudoku puzzles
+- [x] emailed onestop
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Apply for a brand name for the business
+- [ ] Learn to drive
+- [ ] Prepare clothes
 
  
  
