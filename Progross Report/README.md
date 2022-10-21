@@ -1628,10 +1628,14 @@ Scree plot to visualize this
  
 ## October Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Sent emails to ISSS
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Apply for a brand name for the business
+- [ ] Learn to drive
+- [ ] Prepare clothes
+- [ ] Finish generating sudokus. 
+
 
   
  
