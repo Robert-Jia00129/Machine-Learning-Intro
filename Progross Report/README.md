@@ -1639,7 +1639,7 @@ Scree plot to visualize this
 
   
  
-## October 21Update: 
+## October 21 Update: 
 ### Finished Tasks: 
 - [x] Finished generating sudoku puzzles
 - [x] emailed onestop
@@ -1650,5 +1650,66 @@ Scree plot to visualize this
 - [ ] Prepare clothes
 
  
- 
- 
+## October 22 Update: 
+### Finished Tasks: 
+- [x] Worked on the sudoku project
+
+### Tasks for tomorrow: 
+- [ ] Apply for a brand name for the business
+- [ ] Learn to drive
+- [ ] Prepare clothes
+
+## October 23 Update: 
+### Finished Tasks: 
+- [x] Prepared clothes 
+- [x] Set up weekly plans
+
+### Tasks for tomorrow: 
+- [ ] Finish the sudoku project 
+- [ ] Apply for a brand name for the business
+- [ ] Learn to drive
+- [ ] Prepare clothes
+
+## October 24 Update: 
+### Finished Tasks: 
+- [x] Talked with advisor about course selection
+- [x] Finished all available homework
+
+### Tasks for tomorrow: 
+- [ ] Finish Sudoku Project 
+- [ ] Apply for a brand name for the business
+- [ ] Learn to drive
+- [ ] Prepare clothes
+
+
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+## October Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
