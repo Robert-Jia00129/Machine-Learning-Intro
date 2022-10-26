@@ -1682,12 +1682,16 @@ Scree plot to visualize this
 - [ ] Prepare clothes
 
 
-## October Update: 
+## October 25 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Fixed ssn issue
+- [x] Found a way to control myself. 
+- [x] Finished sudoku project
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Apply for a brand name for the business
+- [ ] Learn to drive
+- [ ] Prepare clothes halfway through
 
 ## October Update: 
 ### Finished Tasks: 
