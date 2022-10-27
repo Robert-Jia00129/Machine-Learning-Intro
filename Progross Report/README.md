@@ -1693,12 +1693,12 @@ Scree plot to visualize this
 - [ ] Learn to drive
 - [ ] Prepare clothes halfway through
 
-## October Update: 
+## October 26 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Optimize sudoku project
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Keep optimizing sudoku project
 ---
 
 ## October Update: 
