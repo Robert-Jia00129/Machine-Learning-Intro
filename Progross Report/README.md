@@ -1701,12 +1701,15 @@ Scree plot to visualize this
 - [ ] Keep optimizing sudoku project
 ---
 
-## October Update: 
+## October 27 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Updated the new system and customized my settnigs. 
+- [x] Started working on the sudoku project
+- [x] Strudied CSCI 2011 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Keep optimizing sudoku project
+
 ---
 
 ## October Update: 
