@@ -1712,7 +1712,61 @@ Scree plot to visualize this
 
 ---
 
-## October Update: 
+## October 28 Update: 
+### Finished Tasks: 
+- [x] Formed a new habit of reviewing after classes 
+
+### Tasks for tomorrow: 
+- [ ] Finish tasks from the task list 
+---
+ 
+
+## October 29 Update: 
+### Finished Tasks: 
+- [x] Finished tasks on the task list. Going to accumulate them in the future and finish them on Saturdays
+
+### Tasks for tomorrow: 
+- [ ] Finish sudoku projects
+---
+ 
+
+## October 30 Update: 
+### Finished Tasks: 
+- [x] Finish sudoku projects. 
+
+### Tasks for tomorrow: 
+- [ ] finish the FAFSA form 
+---
+ 
+
+## October 28 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+ 
+
+## October 28 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+ 
+
+## October 28 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+ 
+
+## October 28 Update: 
 ### Finished Tasks: 
 - [x] 
 
