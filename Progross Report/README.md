@@ -1739,12 +1739,12 @@ Scree plot to visualize this
 ---
  
 
-## October 28 Update: 
+## October 31 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished tasks on the long term goal checklist
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] finish the FAFSA form 
 ---
  
 
