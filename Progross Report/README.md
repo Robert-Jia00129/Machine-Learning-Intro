@@ -1748,12 +1748,12 @@ Scree plot to visualize this
 ---
  
 
-## October 28 Update: 
+## November 1 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished filling out the FAFSA form, need to add additional information
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Sudoku project
 ---
  
 
