@@ -1757,7 +1757,28 @@ Scree plot to visualize this
 ---
  
 
-## October 28 Update: 
+## November 2 Update: 
+### Finished Tasks: 
+- [x] Looked into how to start a YouTube channel 
+
+### Tasks for tomorrow: 
+- [ ] Practise driving
+---
+ 
+
+## November 3 Update: 
+### Finished Tasks: 
+- [x] Practised driving 
+- [x] Reviewed for CSCI 2033
+
+### Tasks for tomorrow: 
+- [ ] FAFSA
+- [ ] Sudoku project 
+
+
+---
+ 
+## November Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -1765,8 +1786,23 @@ Scree plot to visualize this
 - [ ] 
 ---
  
+## November Update: 
+### Finished Tasks: 
+- [x] 
 
-## October 28 Update: 
+### Tasks for tomorrow: 
+- [ ] 
+---
+ 
+## November Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+ 
+## November Update: 
 ### Finished Tasks: 
 - [x] 
 
