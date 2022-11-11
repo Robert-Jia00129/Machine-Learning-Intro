@@ -1778,12 +1778,14 @@ Scree plot to visualize this
 
 ---
  
-## November Update: 
+## November 10 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finally kind of recovered from Covid, hope this gets well very soon. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Self Study CSCI 2011 and prepare for the test. 
+
+
 ---
  
 ## November Update: 
