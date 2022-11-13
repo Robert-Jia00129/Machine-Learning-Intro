@@ -1788,20 +1788,21 @@ Scree plot to visualize this
 
 ---
  
-## November Update: 
+## November 11 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Self studied for CSCI 2011. 
+- [x] Also know that the challenge problems doesn't worth points!!! Amazing 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start working on the calculator Youtube chanel 
 ---
  
-## November Update: 
+## November 12 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Start planning the outline for the Youtube chanel. Think of contents that I could make 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Spend 8 hours of time on the reviewing of CSCI 2011. Cover as much content as possible. 
 ---
  
 ## November Update: 
