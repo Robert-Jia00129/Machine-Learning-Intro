@@ -1805,12 +1805,310 @@ Scree plot to visualize this
 - [ ] Spend 8 hours of time on the reviewing of CSCI 2011. Cover as much content as possible. 
 ---
  
-## November Update: 
+## November 13 Update: 
+### Finished Tasks: 
+- [x] Spend 3 hours of time reviewing for CSCI 2011
+
+### Tasks for tomorrow: 
+- [ ] Spend another 3 hours reviewing CSCI 2011
+---
+
+  
+## November 14 Update: 
+### Finished Tasks: 
+- [x] Spent around 3 hours reviewing CSCI 2011
+
+### Tasks for tomorrow: 
+- [ ] Spend 5 hours reviewing CSCI 2011
+---
+
+ 
+ 
+
+  
+## November  Update: 
 ### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+ 
+ 
+
+  
+## November  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
  
  
