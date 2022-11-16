@@ -1826,12 +1826,15 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 15 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Reviewed for missing classes 
+- [x] Spent lots of time on course selection 
+- [x] Amazing day, keep this up
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish HW for my missed classes 
+- [ ] And I could start reviewing for CSCI 2011
 ---
 
  
