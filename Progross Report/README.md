@@ -1841,12 +1841,13 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 17 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished all of the HW for the missed classes 
+- [x] Reviewed for CSCI 2033 (mainly) and 2011
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish reviewing for CSCI 2033 and keep doing 2011. My goal is to achieve 55/50
 ---
 
  
