@@ -1854,36 +1854,36 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 18 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished reviewing for CSCI 2033, did great on the exam. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start making review plans for CSCI 2011
 ---
 
  
  
 
   
-## November  Update: 
+## November 19 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Start my reviewing for CSCI 2011
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish reviewing and preparing questions to ask about CSCI 2011. 
 ---
 
  
  
 
   
-## November  Update: 
+## November 20 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished reviewing most of the CSCI2011 stuff
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Ask questions for CSCI 2011 and keep reviewing 
 ---
 
  
