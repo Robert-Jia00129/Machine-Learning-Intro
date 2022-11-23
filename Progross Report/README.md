@@ -1890,31 +1890,32 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 21 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Covered most reviewing contents
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Take the test and spend time on college application
 ---
 
  
  
 
   
-## November  Update: 
+## November 22 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished the exam. 
+- [x] Spent time on the FAFSA form 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start working on my YouTube chanel 
 ---
 
  
  
 
   
-## November  Update: 
+## November 23 Update: 
 ### Finished Tasks: 
 - [x] 
 
