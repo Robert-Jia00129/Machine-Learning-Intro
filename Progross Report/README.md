@@ -1917,10 +1917,10 @@ Scree plot to visualize this
   
 ## November 23 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Half way through my YouTube outline 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Enjoy thanksgiving! Write emails to thank my professors. 
 ---
 
  
@@ -1929,10 +1929,11 @@ Scree plot to visualize this
   
 ## November  Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Participated in thanksgiving events and socialized with others. 
+- [x] Wrote professors thanksgiving emails. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish my study plans. 
 ---
 
  
