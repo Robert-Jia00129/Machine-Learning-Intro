@@ -1927,7 +1927,7 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 24 Update: 
 ### Finished Tasks: 
 - [x] Participated in thanksgiving events and socialized with others. 
 - [x] Wrote professors thanksgiving emails. 
@@ -1940,12 +1940,14 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 25 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Tried to finish as many tasks from the study list as possible
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish study plans
+- [ ] Start working on the project
+- [ ] Start implementing the procrastination 2-minute plan
 ---
 
  
@@ -1954,10 +1956,11 @@ Scree plot to visualize this
   
 ## November  Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Start implementing the 2-minute plan, absolutely amazing!!!
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish study plans
+- [ ] Start working on the project
 ---
 
  
