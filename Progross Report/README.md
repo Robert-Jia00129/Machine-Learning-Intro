@@ -1954,7 +1954,7 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 26 Update: 
 ### Finished Tasks: 
 - [x] Start implementing the 2-minute plan, absolutely amazing!!!
 
@@ -1967,36 +1967,38 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 27 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Started spending a lot of time on the sudoku project. Hopefully I could finish this within a month. 
+
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish study plans
 ---
 
  
  
 
   
-## November  Update: 
+## November 28 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Extra questions on discrete mathematics. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Spend more time on the project 
+- [ ] Try to finish another section for 2011
 ---
 
  
  
 
   
-## November  Update: 
+## November 29 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Improved the sudoku project. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Get over fever and start working on 2011 extra questions
 ---
 
  
