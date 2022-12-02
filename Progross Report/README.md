@@ -2005,121 +2005,122 @@ Scree plot to visualize this
  
 
   
-## November  Update: 
+## November 30 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finally the fevers over and I'm working on 2011 questions now 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start to work on extra things without rewards
 ---
 
  
  
 
   
-## November  Update: 
+## December 1 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished preparing for the quiz 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Try to finish extra questions on CSCI 2011
 ---
-
- 
  
 
   
-## November  Update: 
+## December 2 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Started some questions on CSCI 2011
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish all the previuos sections so I could start doing new stuff. 
 ---
-
- 
  
 
   
-## November  Update: 
+## December Update: 
 ### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
- 
  
 
   
-## November  Update: 
+## December Update: 
 ### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
- 
  
 
   
-## November  Update: 
+## December Update: 
 ### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
- 
  
 
   
-## November  Update: 
+## December Update: 
 ### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
- 
  
 
   
-## November  Update: 
+## December Update: 
 ### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
- 
  
 
   
-## November  Update: 
+## December Update: 
 ### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
- 
  
 
   
-## November  Update: 
+## December Update: 
 ### Finished Tasks: 
 - [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+ 
 
+  
+## December Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
  
- 
+
+  
+## December Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
