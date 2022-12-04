@@ -2037,12 +2037,12 @@ Scree plot to visualize this
  
 
   
-## December Update: 
+## December 3 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Tooo many questions to finish 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start voluntarily work on things that I like. E.g. youtuve video, sudoku
 ---
  
 
