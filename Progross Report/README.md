@@ -2047,32 +2047,33 @@ Scree plot to visualize this
  
 
   
-## December Update: 
+## December. 4 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Read an research about doing things without any rewards. I'm going to try doing this more. 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Make new progess on the sudoku project
 ---
  
 
   
-## December Update: 
+## December 5 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Nearly completed coding part of the sudoku project
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Do more CSCI 2011 exercises and discuss it with professor 
+- [ ] Start doing my Youtube project
 ---
  
 
   
-## December Update: 
+## December 6 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Discussed with professor 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Do whatever I like! 
 ---
  
 
