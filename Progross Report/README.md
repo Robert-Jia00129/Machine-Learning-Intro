@@ -2078,14 +2078,53 @@ Scree plot to visualize this
  
 
   
-## December Update: 
+## December 7 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Spent some time investigating on the Youtube video. Should get everything started tmr 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Work really really hard on producing them
 ---
  
+
+  
+## December 8 Update: 
+### Finished Tasks: 
+- [x] Worked very hard on making new videos, got two of them done!
+
+### Tasks for tomorrow: 
+- [ ] The mic quality is bad, record them again with the new mic 
+---
+ 
+
+  
+## December 9 Update: 
+### Finished Tasks: 
+- [x] Bought the new mic, waiting for it! 
+
+### Tasks for tomorrow: 
+- [ ] Study about the fast inverse squared! 
+---
+ 
+
+  
+## December 10 Update: 
+### Finished Tasks: 
+- [x] Spent a lot of time studying the FIS
+
+### Tasks for tomorrow: 
+- [ ] Fully understand every single step for FIS
+---
+ 
+
+  
+## December Update: 
+### Finished Tasks: 
+- [x] Finished studying about FIS
+
+### Tasks for tomorrow: 
+- [ ] Finish recording all of my YouTube videos and start editing them 
+---
 
   
 ## December Update: 
@@ -2095,7 +2134,6 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
- 
 
   
 ## December Update: 
@@ -2105,17 +2143,6 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
- 
-
-  
-## December Update: 
-### Finished Tasks: 
-- [x] 
-
-### Tasks for tomorrow: 
-- [ ] 
----
- 
 
   
 ## December Update: 
