@@ -2118,7 +2118,7 @@ Scree plot to visualize this
  
 
   
-## December Update: 
+## December 11 Update: 
 ### Finished Tasks: 
 - [x] Finished studying about FIS
 
@@ -2127,24 +2127,82 @@ Scree plot to visualize this
 ---
 
   
-## December Update: 
+## December 12 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished all my videos! 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Find a way to edit them. 
 ---
 
   
-## December Update: 
+## December 13 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Organized the videos
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Learn how to edit videos 
 ---
 
   
+## December 14 Update: 
+### Finished Tasks: 
+- [x] Distributed the video editing tasks to one of my high school friends
+
+### Tasks for tomorrow: 
+- [ ] Start forming the habit of reading journals when I'm in the bathroom
+---
+
+## December 15 Update: 
+### Finished Tasks: 
+- [x] Started this habit for the first day. Really efficient. 
+
+### Tasks for tomorrow: 
+- [ ] Prepare for the upcoming final. I wanna get an A+! 
+---
+
+
+## December 16 Update: 
+### Finished Tasks: 
+- [x] Finished of the three sections
+
+### Tasks for tomorrow: 
+- [ ] Ask the professor about these questions 
+---
+
+
+
+## December 17 Update: 
+### Finished Tasks: 
+- [x] Asked these questions 
+- [ ] Worked on the second section
+
+### Tasks for tomorrow: 
+- [ ] Try to finish the second sectoin
+---
+
+## December 18 Update: 
+### Finished Tasks: 
+- [x] Nearly finished the second section. Unable to proceed to the third, but I think I would be fine
+
+### Tasks for tomorrow: 
+- [ ] Start my holiday with a good start. And do the final
+---
+
+
+## December 19 Update: 
+### Finished Tasks: 
+- [x] Finished the final! 
+- [x] Consulted with the mental health department in Boynton Health
+- [x] Started my gym routine 
+- [x] Started working on the sudoku project
+
+### Tasks for tomorrow: 
+- [ ] Set-up VS code. I must do this. I am going to use it one day. 
+- [ ] Finish the current stage of sudoku project
+---
+
+
 ## December Update: 
 ### Finished Tasks: 
 - [x] 
@@ -2152,3 +2210,21 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
+
+## December Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+## December Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
