@@ -2203,9 +2203,12 @@ Scree plot to visualize this
 ---
 
 
-## December Update: 
+## December 20 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Manged my folders and finder to be more efficient
+- [x] Set up VS code! Finally found the issue 
+- [x] Stagnated on Stage 1 Sudoku project
+- [x] Uploaded my code for CSCI 1913
 
 ### Tasks for tomorrow: 
 - [ ] 
