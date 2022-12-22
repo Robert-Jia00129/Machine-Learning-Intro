@@ -2211,6 +2211,27 @@ Scree plot to visualize this
 - [x] Uploaded my code for CSCI 1913
 
 ### Tasks for tomorrow: 
+- [ ] Upload my modified Youtube video 
+- [ ] Learn more on how packages work and try to solve the bug I have
+---
+
+
+## December 21 Update: 
+### Finished Tasks: 
+- [x] Downloaded pipenv and learned to use it
+- [x] Added description to my Youtube videos 
+
+### Tasks for tomorrow: 
+- [ ] Re-edit the video and upload it again
+- [ ] Finish my Sudoku project despite the bug 
+
+---
+
+## December 22 Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
 - [ ] 
 ---
 
@@ -2222,6 +2243,16 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
+
+## December Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
 
 ## December Update: 
 ### Finished Tasks: 
