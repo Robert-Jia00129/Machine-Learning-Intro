@@ -2229,28 +2229,38 @@ Scree plot to visualize this
 
 ## December 22 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finally found the way to solve the bug! Amazing. 
+- [x] Learned to use pipenv
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish the current stage
 ---
 
 
-## December Update: 
+## December 23 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished all aspects in my sudoku project
+- [x] Ready for the next meeting 
+
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Navigate through the Machine learning courses 
+- [ ] Find materials for python tricks
+- [ ] Complete my FAFSA form
+
 ---
 
 
-## December Update: 
+## December 24 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Completed FAFSA form 
+- [x] Downloaded a book full of python tricks 
+- [x] Watched a YouTube video on python tricks and improved my project
+- [x] Registered for websites on machine learning
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Investigate more on the python trick videos and books 
+- [ ] Investigate in research opportunities
 ---
 
 
