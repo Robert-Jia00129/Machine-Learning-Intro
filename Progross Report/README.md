@@ -2264,6 +2264,25 @@ Scree plot to visualize this
 ---
 
 
+## December 25 Update: 
+### Finished Tasks: 
+- [x] Investigated in python trick videos 
+
+### Tasks for tomorrow: 
+- [ ] Investigate more on the python trick videos and books 
+- [ ] Investigate in research opportunities
+---
+
+
+## December Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
 ## December Update: 
 ### Finished Tasks: 
 - [x] 
