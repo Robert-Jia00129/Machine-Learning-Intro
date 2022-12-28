@@ -2274,7 +2274,26 @@ Scree plot to visualize this
 ---
 
 
-## December Update: 
+## December 26 Update: 
+### Finished Tasks: 
+- [x] Investigated in research opportunities, most of them are bio/robotics based, not really interested right now
+
+### Tasks for tomorrow: 
+- [ ] Investigate more on the python trick videos and books 
+
+---
+
+
+## December 27 Update: 
+### Finished Tasks: 
+- [x] Half way through the python tricks 
+
+### Tasks for tomorrow: 
+- [ ] Try to finish another hour of the python tricks and learn them properly 
+- [ ] Read the book as well
+---
+
+## December 28 Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2282,8 +2301,7 @@ Scree plot to visualize this
 - [ ] 
 ---
 
-
-## December Update: 
+## December 27 Update: 
 ### Finished Tasks: 
 - [x] 
 
