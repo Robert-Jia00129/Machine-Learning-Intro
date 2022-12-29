@@ -2295,10 +2295,10 @@ Scree plot to visualize this
 
 ## December 28 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Start learning about first class functions, and decorators
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish learning about first calss functions 
 ---
 
 ## December 27 Update: 
