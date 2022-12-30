@@ -2301,7 +2301,61 @@ Scree plot to visualize this
 - [ ] Finish learning about first calss functions 
 ---
 
-## December 27 Update: 
+## December 29 Update: 
+### Finished Tasks: 
+- [x] Finish learning about first class functions, wrappers and decorators
+
+### Tasks for tomorrow: 
+- [ ] Learn about generators 
+---
+
+
+## December  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## December  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## December  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## December  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## December  Update: 
+### Finished Tasks: 
+- [x] 
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## December  Update: 
 ### Finished Tasks: 
 - [x] 
 
