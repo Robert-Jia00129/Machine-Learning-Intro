@@ -2310,54 +2310,55 @@ Scree plot to visualize this
 ---
 
 
-## December  Update: 
+## December 30 Update: 
+### Finished Tasks: 
+- [x] Finished another part about decorators
+
+### Tasks for tomorrow: 
+- [ ] Learn about generators 
+
+---
+
+
+## December 31 Update: 
+### Finished Tasks: 
+- [x] Learn about generators
+
+### Tasks for tomorrow: 
+- [ ] Learn about threading
+---
+
+
+## January 1 Update: 
+### Finished Tasks: 
+- [x] Learned about threading and multiprocessing
+
+
+### Tasks for tomorrow: 
+- [ ] Learn about multi-threading
+---
+
+
+## January  Update: 
 ### Finished Tasks: 
 - [x] 
+
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
-
-## December  Update: 
+## January  Update: 
 ### Finished Tasks: 
 - [x] 
+
 
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
-
-## December  Update: 
+## January  Update: 
 ### Finished Tasks: 
 - [x] 
 
-### Tasks for tomorrow: 
-- [ ] 
----
-
-
-## December  Update: 
-### Finished Tasks: 
-- [x] 
-
-### Tasks for tomorrow: 
-- [ ] 
----
-
-
-## December  Update: 
-### Finished Tasks: 
-- [x] 
-
-### Tasks for tomorrow: 
-- [ ] 
----
-
-
-## December  Update: 
-### Finished Tasks: 
-- [x] 
 
 ### Tasks for tomorrow: 
 - [ ] 
