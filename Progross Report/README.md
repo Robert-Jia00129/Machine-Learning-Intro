@@ -2339,21 +2339,26 @@ Scree plot to visualize this
 ---
 
 
-## January  Update: 
+## January 2 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Cleaned up my ICloud folders 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Study some advanced mathematics 
+- [ ] Start making plans for the rest of the holiday
+
+
 ---
-## January  Update: 
+## January 3 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Studied adanved mathematics 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Apply filters to my gmail inbox 
+
+
 ---
 ## January  Update: 
 ### Finished Tasks: 
