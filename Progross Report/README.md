@@ -2360,6 +2360,39 @@ Scree plot to visualize this
 
 
 ---
+## January 4 Update: 
+### Finished Tasks: 
+- [x] Created filters to my gmail inbox. This is going to save me so much time in the future. 
+- [x] Studied 8 hours of statistics. 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
 ## January  Update: 
 ### Finished Tasks: 
 - [x] 
