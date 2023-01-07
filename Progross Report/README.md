@@ -2367,23 +2367,28 @@ Scree plot to visualize this
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Continue studying stats
 ---
-## January  Update: 
+## January 5 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Studied stats for another 4 hours 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Do as many extra stuff as I can 
+
+
 ---
-## January  Update: 
+## January 6 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finihsed editing and uploaded 1 more YouTube video 
+- [x] Conducted college research 
+- [x] Organized all my current YouTube videos 
+- [x] Went to the gym. Pushed myself to make connections with new people
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Send FAFSA forms to the schools 
 ---
 ## January  Update: 
 ### Finished Tasks: 
