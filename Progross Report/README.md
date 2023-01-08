@@ -2390,7 +2390,7 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Send FAFSA forms to the schools 
 ---
-## January  Update: 
+## January 7 Update: 
 ### Finished Tasks: 
 - [x] Finished learning about python tricks 
 - [x] Finished scheduling appointments for colleges
@@ -2399,7 +2399,29 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] Send FAFSA forms to the schools 
 
+
 ---
+## January 8 Update: 
+### Finished Tasks: 
+- [x] Start learning about data science through the kaggle platform
+- [x] Sent FAFSA forms to the schools
+
+
+### Tasks for tomorrow: 
+- [ ] Start learning the statistics course
+
+
+---
+
+ ## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
 ## January  Update: 
 ### Finished Tasks: 
 - [x] 
@@ -2409,4 +2431,11 @@ Scree plot to visualize this
 - [ ] 
 ---
 
- 
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
