@@ -2392,11 +2392,13 @@ Scree plot to visualize this
 ---
 ## January  Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished learning about python tricks 
+- [x] Finished scheduling appointments for colleges
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Send FAFSA forms to the schools 
+
 ---
 ## January  Update: 
 ### Finished Tasks: 
