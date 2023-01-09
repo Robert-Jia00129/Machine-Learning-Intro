@@ -2413,13 +2413,14 @@ Scree plot to visualize this
 
 ---
 
- ## January  Update: 
+ ## January 9 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished the statistics course 
+- [x] Sent FAFSA forms to the schools. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Continue learning abou the stats course. Only 5 days left to go! 
 ---
 
 ## January  Update: 
