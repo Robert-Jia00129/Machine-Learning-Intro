@@ -2423,6 +2423,37 @@ Scree plot to visualize this
 - [ ] Continue learning abou the stats course. Only 5 days left to go! 
 ---
 
+## January 10 Update: 
+### Finished Tasks: 
+- [x] Learned about the stats course and finished the stats exam 
+
+
+### Tasks for tomorrow: 
+- [ ] Meet with professor 
+- [ ] Continue learning the stats course. Already half-way through. Don't give up 
+---
+
+## January  Update: 
+### Finished Tasks: 
+- [x] Finished coding
+- [x] Started a little bit about the stats course 
+- [x] Asked teachers for letter of recommendation
+
+
+### Tasks for tomorrow: 
+- [ ] Meet with professor 
+- [ ] Catch up with the stats course
+---
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
 ## January  Update: 
 ### Finished Tasks: 
 - [x] 
