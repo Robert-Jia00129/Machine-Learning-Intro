@@ -2433,7 +2433,7 @@ Scree plot to visualize this
 - [ ] Continue learning the stats course. Already half-way through. Don't give up 
 ---
 
-## January  Update: 
+## January 11 Update: 
 ### Finished Tasks: 
 - [x] Finished coding
 - [x] Started a little bit about the stats course 
@@ -2445,13 +2445,16 @@ Scree plot to visualize this
 - [ ] Catch up with the stats course
 ---
 
-## January  Update: 
+## January 12 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Keep studying the stats course. Half way caught up 
+- [x] Met with professor. Meet again one day or two later. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Keep studying the stats course!!! Last day!!! 
+- [ ] Attend office hours and ask all my questions
+
 ---
 
 ## January  Update: 
