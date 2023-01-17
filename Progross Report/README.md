@@ -2457,6 +2457,50 @@ Scree plot to visualize this
 
 ---
 
+## January 13 Update: 
+### Finished Tasks: 
+- [x] Finished the stats course for this week! 
+- [x] Attended office hours 
+- [x] Attended information sessions 
+
+
+### Tasks for tomorrow: 
+- [ ] Work on my ECON waitlist
+---
+
+## January 14 Update: 
+### Finished Tasks: 
+- [x] Appealed for my ECON case 
+- [x] Emailed about extra credit and honor courses
+
+
+### Tasks for tomorrow: 
+- [ ] Work with my ECON issue and write emails to all prefessors 
+
+
+---
+## January 15 Update: 
+### Finished Tasks: 
+- [x] Wrote emails to professors
+- [x] Finished 1 kaggle session
+
+
+### Tasks for tomorrow: 
+- [ ] Meet with professor
+- [ ] Go find honors program and discuss with them about my issue. 
+
+
+---
+## January 16 Update: 
+### Finished Tasks: 
+- [x] Met with professor. I found today again that the most important thing is to become confident. Believe in your progress. Believe in what you are doing. You are worry about lots of things, but being unconfident doesn't solve the issue. Find the problems, solve them, find new ones, worry about new ones, and solve them. That's what my plan should look like. That's what my agenda should look like.  
+
+
+### Tasks for tomorrow: 
+- [ ] Try to contact the honor office. This is the most important. 
+
+
+---
 ## January  Update: 
 ### Finished Tasks: 
 - [x] 
@@ -2465,7 +2509,6 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
-
 ## January  Update: 
 ### Finished Tasks: 
 - [x] 
