@@ -2501,6 +2501,47 @@ Scree plot to visualize this
 
 
 ---
+## January 17 Update: 
+### Finished Tasks: 
+- [x] Seccessfully enrolled in the STATH course
+
+
+### Tasks for tomorrow: 
+- [ ] Start my semester and grow accustomed to it 
+---
+
+
+## January 18 Update: 
+### Finished Tasks: 
+- [x] Applied to the honors program
+
+
+### Tasks for tomorrow: 
+- [ ] Prepare all the requried materials 
+---
+
+## January  Update: 
+### Finished Tasks: 
+- [x] Collected required textbook. 
+- [x] Prepared for the CSU chinese new year festival
+
+
+### Tasks for tomorrow: 
+- [ ] Enjoy the CSU festival. 
+- [ ] Investigate in Notability. Make my semester plan
+
+
+---
+## January 20 Update: 
+### Finished Tasks: 
+- [x] Created amazing template from Notability
+
+
+### Tasks for tomorrow: 
+- [ ] Finish all my coursework. And then I can spend the whole Sunday on extra coding. 
+
+
+---
 ## January  Update: 
 ### Finished Tasks: 
 - [x] 
@@ -2509,6 +2550,7 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
 ## January  Update: 
 ### Finished Tasks: 
 - [x] 
