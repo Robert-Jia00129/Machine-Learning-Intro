@@ -2542,6 +2542,26 @@ Scree plot to visualize this
 
 
 ---
+## January 21 Update: 
+### Finished Tasks: 
+- [x] Nearly finished coursework. 
+
+
+### Tasks for tomorrow: 
+- [ ] Finish coursework tmr
+---
+
+## January  Update: 
+### Finished Tasks: 
+- [x] FInished coursework
+- [x] Finished a lot of application
+
+
+### Tasks for tomorrow: 
+- [ ] I need to start working on the coding project!!!! 
+---
+
+
 ## January  Update: 
 ### Finished Tasks: 
 - [x] 
@@ -2550,6 +2570,97 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## January  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
 
 ## January  Update: 
 ### Finished Tasks: 
