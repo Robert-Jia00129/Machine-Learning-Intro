@@ -2551,7 +2551,7 @@ Scree plot to visualize this
 - [ ] Finish coursework tmr
 ---
 
-## January  Update: 
+## January 22 Update: 
 ### Finished Tasks: 
 - [x] FInished coursework
 - [x] Finished a lot of application
@@ -2562,23 +2562,26 @@ Scree plot to visualize this
 ---
 
 
-## January  Update: 
+## January 23 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished most part of my application
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish all the homework for this week. 
+- [ ] Contact pavlos protopapas
 ---
 
 
-## January  Update: 
+## January 24 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished all the homework for this week. 
+- [x] Contact pavlos protopapas
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Read heap sort keys for CSCI 4041
+
 ---
 
 
