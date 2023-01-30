@@ -2585,53 +2585,56 @@ Scree plot to visualize this
 ---
 
 
-## January  Update: 
+## January 25 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished constructing my own heap sort
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Work out a good weekly planner 
 ---
 
 
-## January  Update: 
+## January 26 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finally did a weekly planner that maximizes my effeciency. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish apply to UMich
 ---
 
 
-## January  Update: 
+## January 27 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finalized all my statements. Submitted application
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish my homework
+- [ ] Start leetcode
 ---
 
 
-## January  Update: 
+## January 28 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Started Leetcode! Actually really interesting 
+- [x] Finished all of my homeowrk!
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Spend the whole day on my researches
 ---
 
 
-## January  Update: 
+## January 29 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Absolutely amazing day. Spend all of my time on research, I'm going to do more questions as well. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start my week strong. Finish as many work as I can. 
+- [ ] Review the stats concepts from last class. Really interesting. 
 ---
 
 
