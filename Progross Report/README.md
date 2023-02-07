@@ -2638,7 +2638,87 @@ Scree plot to visualize this
 ---
 
 
-## January  Update: 
+## January 30 Update: 
+### Finished Tasks: 
+- [x] Finished reviewing the stats concepts
+- [x] Called different schools 
+
+
+### Tasks for tomorrow: 
+- [ ] Catch up with the work I hvaen't done today
+---
+
+
+## January 31 Update: 
+### Finished Tasks: 
+- [x] Tried my best to finish the work accumulated from yesterday
+
+
+### Tasks for tomorrow: 
+- [ ] Try to add work time in between my time during classes. 
+---
+
+## February 1 Update: 
+### Finished Tasks: 
+- [x] Tried to finish some tasks in between my class. Try another way to improve my effecientcy
+
+
+### Tasks for tomorrow: 
+- [ ] Call universities to ask about further information
+---
+
+
+## February 2 Update: 
+### Finished Tasks: 
+- [x] Called universites and finished gathing all information
+
+
+### Tasks for tomorrow: 
+- [ ] Email Cornell computer science director regarding my chances of trasnferring into comptuer science. 
+---
+
+
+## February 3 Update: 
+### Finished Tasks: 
+- [x] Emailed Cornell cmoptuer science director about the issue. 
+
+
+### Tasks for tomorrow: 
+- [ ] Keep adhering to this new weekly policy
+---
+
+
+## February 4 Update: 
+### Finished Tasks: 
+- [x] Everything is going on so weel with the weekly plan. 
+
+
+### Tasks for tomorrow: 
+- [ ] Keep the plan going for tmr
+---
+
+
+## February 5 Update: 
+### Finished Tasks: 
+- [x] Did some research on the project. But awefully bad
+
+
+### Tasks for tomorrow: 
+- [ ] Prioritize my tasks for next week. Put things important first. And then just find a way to manage all the other leftovers
+---
+
+
+## February 6 Update: 
+### Finished Tasks: 
+- [x] Did some tasks that I regard important. 
+
+
+### Tasks for tomorrow: 
+- [ ] Should keep this going tmr 
+---
+
+
+## February  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2648,7 +2728,7 @@ Scree plot to visualize this
 ---
 
 
-## January  Update: 
+## February  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2658,7 +2738,7 @@ Scree plot to visualize this
 ---
 
 
-## January  Update: 
+## February  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2668,7 +2748,7 @@ Scree plot to visualize this
 ---
 
 
-## January  Update: 
+## February  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2676,3 +2756,64 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
