@@ -2718,23 +2718,26 @@ Scree plot to visualize this
 ---
 
 
-## February  Update: 
+## February 7 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Visited boynton which took a great amount of my time. 
+- [x] My econ grades are terrible. I think I have to find a way to boost the scores. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Email Econ prof, and keep prioritizing tasks that are truely important to me. 
 ---
 
 
-## February  Update: 
+## February 8 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Emailed econ prof and received a change to redo my work. 
+- [x] Learned to stay calm and found a sleeping schedule that fits me really well
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish everything that is supposed to be done. 
+- [ ] Read papers, meet with professor 
 ---
 
 
