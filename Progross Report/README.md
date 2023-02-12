@@ -2741,43 +2741,49 @@ Scree plot to visualize this
 ---
 
 
-## February  Update: 
+## February 9 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Read papers and met with professor
+
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish the things that are pushed towards. 
 ---
 
 
-## February  Update: 
+## February 10 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Nearly finished everything that is due today. 
+- [x] Started the habit of reviewing after class. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Learn to cook salmon sushini!!
 ---
 
 
-## February  Update: 
+## February 11 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Learned how to cook salmon sushimi~
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Write to university professors for research opportunities
+- [ ] Reorganize my working space. Weekly/monthly
+- [ ] Conduct research on sudoku project
 ---
 
 
-## February  Update: 
+## February 12 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Wrote emails to professors on research opporunities. 
+- [x] Finished part of my physics lab report 
+- [x] Did a little bit of resarch on the sudoku project
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Continue, and finish the reserach on sudoku. 
 ---
 
 
