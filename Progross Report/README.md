@@ -2787,13 +2787,13 @@ Scree plot to visualize this
 ---
 
 
-## February  Update: 
+## February 13 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished CMU essays! 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Try to finish the research and all the additional researches!!! 
 ---
 
 
