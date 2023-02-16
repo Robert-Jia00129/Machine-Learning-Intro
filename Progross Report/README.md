@@ -2797,13 +2797,24 @@ Scree plot to visualize this
 ---
 
 
-## February  Update: 
+## February 14 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] It is amazing how much time passes by. I've finished applying to all researches
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Complete remaining application details
+---
+
+
+## February 15 Update: 
+### Finished Tasks: 
+- [x] Completed the application documents
+- [x] Documented my bills
+
+
+### Tasks for tomorrow: 
+- [ ] Finish Research!!!
 ---
 
 
@@ -2815,6 +2826,40 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
 
 
 ## February  Update: 
