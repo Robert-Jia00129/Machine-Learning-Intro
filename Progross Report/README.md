@@ -2818,24 +2818,24 @@ Scree plot to visualize this
 ---
 
 
-## February  Update: 
+## February 16 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Kind of finished research. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Try to finish everything and bring things back to normal 
 ---
 
 
 
-## February  Update: 
+## February 17 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finally finished everything accumulated
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Last 2 days of hard work, then we can go relax. 
 ---
 
 
