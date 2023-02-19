@@ -2840,24 +2840,24 @@ Scree plot to visualize this
 
 
 
-## February  Update: 
+## February 18 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Called git. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish course registration 
 ---
 
 
 
-## February  Update: 
+## February 19 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished course registration! 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Read 7 habits! 
 ---
 
 
