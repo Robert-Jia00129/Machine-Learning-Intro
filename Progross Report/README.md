@@ -2862,6 +2862,160 @@ Scree plot to visualize this
 
 
 
+## February 20 Update: 
+### Finished Tasks: 
+- [x] Read the books! 
+
+
+### Tasks for tomorrow: 
+- [ ] Attend my meeting with the professor 
+---
+
+
+
+## February 21 Update: 
+### Finished Tasks: 
+- [x] Leraned a lot from my professor. Life is not a straight line. You can sometimes go the wrong direction, it is totally fine. 
+
+
+### Tasks for tomorrow: 
+- [ ] Register for the ICPC exam. 
+---
+
+
+
+## February 22 Update: 
+### Finished Tasks: 
+- [x] Can't really register. Passed the daedline already
+
+
+### Tasks for tomorrow: 
+- [ ] Try to register for the event!! 
+---
+
+
+
+## February 23 Update: 
+### Finished Tasks: 
+- [x] Somehow made it possible to register
+
+
+### Tasks for tomorrow: 
+- [ ] Spend the whole next day on preparing the contest
+---
+
+
+
+## February 24 Update: 
+### Finished Tasks: 
+- [x] Spent a whole day preparing for it
+
+
+### Tasks for tomorrow: 
+- [ ] Enjoy the contest tmr
+---
+
+
+
+## February 25 Update: 
+### Finished Tasks: 
+- [x] Spent 1000% Effort on the coontest 
+
+
+### Tasks for tomorrow: 
+- [ ] Plan out my future and squeeze time for the competition preparation
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## February  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
 ## February  Update: 
 ### Finished Tasks: 
 - [x] 
