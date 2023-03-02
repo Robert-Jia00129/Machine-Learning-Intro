@@ -2928,7 +2928,61 @@ Scree plot to visualize this
 
 
 
-## February  Update: 
+## February 26 Update: 
+### Finished Tasks: 
+- [x] Successful in starting the preparation for competition. 
+
+
+### Tasks for tomorrow: 
+- [ ] print out the rejection letters. 
+---
+
+
+
+## February 27 Update: 
+### Finished Tasks: 
+- [x] Printed out the rejection letters and sticked them on the wall
+
+
+### Tasks for tomorrow: 
+- [ ] Work on my sudoku project 
+---
+
+
+
+## February 28 Update: 
+### Finished Tasks: 
+- [x] Finished working on the sudoku project
+
+
+### Tasks for tomorrow: 
+- [ ] finish the PHYS quiz, review a little bit
+---
+
+
+
+## March 1 Update: 
+### Finished Tasks: 
+- [x] Finished PHYS quiz 
+- [x] Attended the first Computer science club, really great
+
+
+### Tasks for tomorrow: 
+- [ ] Attend the next day's meeting. Start solving questions
+---
+
+
+## March 2 Update: 
+### Finished Tasks: 
+- [x] Meeting with professor about research
+
+
+### Tasks for tomorrow: 
+- [ ] Go play my first soccer match!! Having a healthy body is crucial to my future. 
+---
+
+
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2938,8 +2992,7 @@ Scree plot to visualize this
 ---
 
 
-
-## February  Update: 
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2949,8 +3002,7 @@ Scree plot to visualize this
 ---
 
 
-
-## February  Update: 
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2960,8 +3012,7 @@ Scree plot to visualize this
 ---
 
 
-
-## February  Update: 
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2971,8 +3022,7 @@ Scree plot to visualize this
 ---
 
 
-
-## February  Update: 
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2982,8 +3032,7 @@ Scree plot to visualize this
 ---
 
 
-
-## February  Update: 
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -2993,8 +3042,7 @@ Scree plot to visualize this
 ---
 
 
-
-## February  Update: 
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -3004,8 +3052,7 @@ Scree plot to visualize this
 ---
 
 
-
-## February  Update: 
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -3015,8 +3062,7 @@ Scree plot to visualize this
 ---
 
 
-
-## February  Update: 
+## March  Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -3024,4 +3070,6 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
+
 
