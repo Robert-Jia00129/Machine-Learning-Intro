@@ -2982,23 +2982,23 @@ Scree plot to visualize this
 ---
 
 
-## March  Update: 
+## March 3 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Soccer match really great. Very bad at the beginning, but I pushed myself and become good the second half of the match. Same thing with my coding. As long as I push myself enough, I should be able to beat all of them! 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Try to print out the code or awards
 ---
 
 
-## March  Update: 
+## March 4 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Only black and white printing available. I will leave all those to print at school
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish self-studying stats. And finish reviewing and implementing all the code for CSCI 4041
 ---
 
 
