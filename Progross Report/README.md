@@ -3002,7 +3002,102 @@ Scree plot to visualize this
 ---
 
 
-## March  Update: 
+## March 5 Update: 
+### Finished Tasks: 
+- [x] Finished self-studying stats
+- [x] Started implementing code for CSCI 4041
+
+
+### Tasks for tomorrow: 
+- [ ] Finish implementing code for CSCI 4041
+---
+
+
+## March 6 Update: 
+### Finished Tasks: 
+- [x] Finished implementing code for random select, partition, mergesort, heap
+
+
+### Tasks for tomorrow: 
+- [ ] Finish code for disjoint sets
+---
+
+
+## March 7 Update: 
+### Finished Tasks: 
+- [x] Finished code for disjoint sets
+
+
+### Tasks for tomorrow: 
+- [ ] Take the stats exam
+---
+
+
+## March 8 Update: 
+### Finished Tasks: 
+- [x] Stats exam was easy. Did well on the exam
+
+
+### Tasks for tomorrow: 
+- [ ] Start doing problems on codeforces
+---
+
+
+## March 9 Update: 
+### Finished Tasks: 
+- [x] Started my first problem on codeforces. Do more problems in the future
+
+
+### Tasks for tomorrow: 
+- [ ] Do more 800 questions
+---
+
+
+## March 10 Update: 
+### Finished Tasks: 
+- [x] Did around 30 questions. 
+
+
+### Tasks for tomorrow: 
+- [ ] Do another 30 questions tmr
+---
+
+
+## March 11 Update: 
+### Finished Tasks: 
+- [x] Finished another 30 questions
+
+
+### Tasks for tomorrow: 
+- [ ] Prepare for the CUSA event
+---
+
+
+
+## March 12 Update: 
+### Finished Tasks: 
+- [x] Finished preparing for the CUSA event
+
+
+### Tasks for tomorrow: 
+- [ ] Try to finish as many stuff as possible on Monday. 
+--- 
+
+
+
+## March 13 Update: 
+### Finished Tasks: 
+- [x] Finished tasks that are supposedly on Tuesday. I am putting in 100% now. So trying to do as much as possible. 
+
+
+### Tasks for tomorrow: 
+- [ ] Finish all the tasks on Tuesday, and try to finish all the tasks that are supposed to be finished this week. 
+- [ ] Finish self-studying for stats
+---
+
+
+
+## March 14 Update: 
 ### Finished Tasks: 
 - [x] 
 
@@ -3011,55 +3106,6 @@ Scree plot to visualize this
 - [ ] 
 ---
 
-
-## March  Update: 
-### Finished Tasks: 
-- [x] 
-
-
-### Tasks for tomorrow: 
-- [ ] 
----
-
-
-## March  Update: 
-### Finished Tasks: 
-- [x] 
-
-
-### Tasks for tomorrow: 
-- [ ] 
----
-
-
-## March  Update: 
-### Finished Tasks: 
-- [x] 
-
-
-### Tasks for tomorrow: 
-- [ ] 
----
-
-
-## March  Update: 
-### Finished Tasks: 
-- [x] 
-
-
-### Tasks for tomorrow: 
-- [ ] 
----
-
-
-## March  Update: 
-### Finished Tasks: 
-- [x] 
-
-
-### Tasks for tomorrow: 
-- [ ] 
----
 
 
 ## March  Update: 
