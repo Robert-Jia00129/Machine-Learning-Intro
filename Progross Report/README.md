@@ -3099,6 +3099,18 @@ Scree plot to visualize this
 
 ## March 14 Update: 
 ### Finished Tasks: 
+- [x] Practiced my first dp problem
+- [x] Worked on researching my econ topic
+
+
+### Tasks for tomorrow: 
+- [ ] Go over stats materials. Try to finish self-studying them. 
+---
+
+
+
+## March  Update: 
+### Finished Tasks: 
 - [x] 
 
 
@@ -3106,6 +3118,35 @@ Scree plot to visualize this
 - [ ] 
 ---
 
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
 
 
 ## March  Update: 
