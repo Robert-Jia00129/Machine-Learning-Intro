@@ -3109,23 +3109,23 @@ Scree plot to visualize this
 
 
 
-## March  Update: 
+## March 15 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Haven't gone over stats materials, but attended the cpp club
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Try to solve questions on longest increasing subsequence 
 ---
 
 
-## March  Update: 
+## March 16 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Solved the longest increasing subsequence problem
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Self-study stats problems 
 ---
 
 
