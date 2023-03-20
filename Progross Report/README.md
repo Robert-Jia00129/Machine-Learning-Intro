@@ -3149,7 +3149,7 @@ Scree plot to visualize this
 ---
 
 
-## March  Update: 
+## March 19 Update: 
 ### Finished Tasks: 
 - [x] Self-Studied the stats problems
 
@@ -3159,13 +3159,13 @@ Scree plot to visualize this
 ---
 
 
-## March  Update: 
+## March 20 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Half finished implementing the sudoku project
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish implementing the sudoku project 
 ---
 
 
