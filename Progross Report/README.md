@@ -3129,13 +3129,33 @@ Scree plot to visualize this
 ---
 
 
-## March  Update: 
+## March 17 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Self-studied stats problem from last last week
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Attend the computer science contest
+---
+
+
+## March 18 Update: 
+### Finished Tasks: 
+- [x] Attend the computer science contest
+
+
+### Tasks for tomorrow: 
+- [ ] Finish studying all the stats problems
+---
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] Self-Studied the stats problems
+
+
+### Tasks for tomorrow: 
+- [ ] Finish implementing the sudoku project
 ---
 
 
@@ -3149,6 +3169,7 @@ Scree plot to visualize this
 ---
 
 
+
 ## March  Update: 
 ### Finished Tasks: 
 - [x] 
@@ -3157,6 +3178,74 @@ Scree plot to visualize this
 ### Tasks for tomorrow: 
 - [ ] 
 ---
+
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## March  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
 
 
 
