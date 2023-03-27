@@ -3170,68 +3170,70 @@ Scree plot to visualize this
 
 
 
-## March  Update: 
+## March 21 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished implementing the sudoku project
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Learn about cpp
 ---
 
 
 
-## March  Update: 
+## March 22 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Learned about some random mixed problems
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Learn about game theory
 ---
 
 
 
-## March  Update: 
+## March 23 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Learned about game theory. Nim was interesting, but still didn't understand yet
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Meet with professor 
 ---
 
 
 
-## March  Update: 
+## March 24 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Got feedback on my sudoku project
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Get everything back on its track
 ---
 
 
 
-## March  Update: 
+## March 25 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Still suck in the dopamine feedback loop
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Try to get out of the loop tomorrow
 ---
 
 
 
-## March  Update: 
+## March 26 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Successfully got out of this infinite loop. 
+- [x] Self-Studied stats
+- [x] Worked on the suodku project
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish the sudoku project
 ---
 
 
