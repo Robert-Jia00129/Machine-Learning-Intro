@@ -3238,7 +3238,178 @@ Scree plot to visualize this
 
 
 
-## March  Update: 
+## March 27 Update: 
+### Finished Tasks: 
+- [x] Finally finished the sudoku project
+
+
+### Tasks for tomorrow: 
+- [ ] Try to finish as much work as possible 
+---
+
+
+
+
+## March 28 Update: 
+### Finished Tasks: 
+- [x] Left lots of work for Saturday to do. Tried to fix it, but time is limited
+
+
+### Tasks for tomorrow: 
+- [ ] Finish phys exam
+---
+
+
+
+
+## March 29 Update: 
+### Finished Tasks: 
+- [x] Finished physics exam
+
+
+### Tasks for tomorrow: 
+- [ ] Attend cpp meeting and learn about dynamic programming tmr
+---
+
+
+
+
+## March 30 Update: 
+### Finished Tasks: 
+- [x] Learned about a special approach, where you need to sort the array in order. 
+
+
+### Tasks for tomorrow: 
+- [ ] Call the schools about my application and financial aid
+---
+
+
+
+
+## March 31 Update: 
+### Finished Tasks: 
+- [x] Finished calling the schools, still have UIUC left
+
+
+### Tasks for tomorrow: 
+- [ ] write my PS about ICPC and honors program
+---
+
+
+
+## April 1 Update: 
+### Finished Tasks: 
+- [x] Finished my FAFSA application essay. 
+- [x] Really busy day. Tried my best to finish as much as I can
+
+
+### Tasks for tomorrow: 
+- [ ] Finish all the rest of my tasks. 
+---
+
+
+
+## April 2 Update: 
+### Finished Tasks: 
+- [x] Finally finished all my accumulated tasks. 
+
+
+### Tasks for tomorrow: 
+- [ ] Start reviewing properly for CSCI 4041
+- [ ] Start reviewing and doing extra exercises for STAT 3021
+---
+
+
+
+## April 3 Update: 
+### Finished Tasks: 
+- [x] Submitted my application and questions on financial aid
+
+
+### Tasks for tomorrow: 
+- [ ] Don't stop on constant recording. Keep this recording going on. 
+---
+
+
+
+## April 4 Update: 
+### Finished Tasks: 
+- [x] Terrible day. Wasted my whole morning. The afternoon is effective, but not enough time for me. 
+
+
+### Tasks for tomorrow: 
+- [ ] Try to finish Everything tmr
+---
+
+
+
+## April 5 Update: 
+### Finished Tasks: 
+- [x] Finished everything that was accumulated!! 
+
+
+### Tasks for tomorrow: 
+- [ ] Start reviewing for CSCI 4041 new concepts, for example, dikstra's algorithm. 
+---
+
+
+
+## April  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## April  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## April  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## April  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## April  Update: 
+### Finished Tasks: 
+- [x] 
+
+
+### Tasks for tomorrow: 
+- [ ] 
+---
+
+
+
+## April  Update: 
 ### Finished Tasks: 
 - [x] 
 
