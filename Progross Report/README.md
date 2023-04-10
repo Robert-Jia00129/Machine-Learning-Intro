@@ -3354,51 +3354,51 @@ Scree plot to visualize this
 
 
 
-## April  Update: 
+## April 6 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Nearly finished reviewing for CSCI 4041 concepts. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish reviewing for 4041
 ---
 
 
 
-## April  Update: 
+## April 7 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Finished reviewing for 4041. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start applying for canada visa
 ---
 
 
 
-## April  Update: 
+## April 8 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Started my Canada Visa application
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Finish all the work accumulated today
 ---
 
 
 
-## April  Update: 
+## April 9 Update: 
 ### Finished Tasks: 
-- [x] 
+- [x] Nearly finished everything. 
 
 
 ### Tasks for tomorrow: 
-- [ ] 
+- [ ] Start codeforces tmr! MUST
 ---
 
 
 
-## April  Update: 
+## April 10 Update: 
 ### Finished Tasks: 
 - [x] 
 
